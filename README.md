@@ -29,13 +29,19 @@
 
 
 <!-- Added About Me Section and GIF -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div>
+<div style="overflow: hidden;">
+  <!-- About Me Section -->
+  <div style="float: left;">
     - About me: A passionate CSE Undergrad from India<br>
     - 🌱 I’m currently learning **Web Development**
   </div>
-  <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
+  
+  <!-- Image Section -->
+  <div style="float: right; margin-left: 20px;">
+    <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
+  </div>
 </div>
+
 
 
 
