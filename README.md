@@ -125,6 +125,9 @@
 
 </details> 
 
+---
+
+<h3 align="center">My GitHub Stats</h3>
 <!-- Profile Summary -->
 <table width="100%" align="center">
 <tr>
