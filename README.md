@@ -29,16 +29,14 @@
 
 
 <!-- Added About Me Section and GIF -->
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <!-- Added About Me Section -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
   <div>
     - About me: A passionate CSE Undergrad from India<br>
     - 🌱 I’m currently learning **Web Development**
   </div>
-  <!-- Added Profile Image GIF -->
-  <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
-  </div>
+  <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
 </div>
+
 
 
 
@@ -66,6 +64,41 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
   <!-- <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary"/> -->
 </div>
+<br>
+
+
+<details>
+  <summary>🚀 Open Source Contributions:</summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+    </tr>
+    <tr>
+      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed to multiple open-source projects.</li>
+          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Hacktoberfest 24</td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Managed GitHub repositories, assigned issues, guided contributors, and resolved code conflicts.</li>
+          <li>Successfully handled project administration and contributed to the project's growth and development.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
+
+
+
 
 ## GSSOC Extended(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
