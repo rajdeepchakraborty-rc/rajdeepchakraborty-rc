@@ -21,8 +21,30 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Added Skills Section -->
+<div align="center">
+  <h3>Skills</h3>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <!-- <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MERN"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/> -->
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <!-- <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary"/> -->
+</div>
 
 ## GSSOC Extended(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
