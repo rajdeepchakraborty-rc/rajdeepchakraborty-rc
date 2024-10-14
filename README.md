@@ -37,6 +37,7 @@
   </div>
   <!-- Added Profile Image GIF -->
   <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
+  </div>
 </div>
 
 
