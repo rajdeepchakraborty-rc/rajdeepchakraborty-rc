@@ -122,12 +122,13 @@
 [![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
 
 
-<div>
-  <!-- Languages Used -->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepchakraborty-rc&show_icons=true&locale=en&layout=compact"     alt="rajdeepchakraborty-rc" /></p>
-
-  <!-- GitHub Stats -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&show_icons=true&locale=en" alt="rajdeepchakraborty-rc" /></p>
-</div>
+<!-- Profile Summary -->
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepchakraborty-rc&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
 
