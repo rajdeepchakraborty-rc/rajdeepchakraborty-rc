@@ -38,6 +38,16 @@
 </div>
 <br>
 
+<!--- 3rd Section on Recent Projects -->
+
+  <details>	
+    <summary><b>📚 Recent Activity</b></summary><br>
+
+  <!--START_SECTION:activity-->
+  
+  </details> 
+
+
 <div>
   <!-- Languages Used -->
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepchakraborty-rc&show_icons=true&locale=en&layout=compact"     alt="rajdeepchakraborty-rc" /></p>
