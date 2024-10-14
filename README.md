@@ -82,8 +82,8 @@
 
 <!--- 3rd Section on Recent Projects -->
 
-  <details>	
-    <summary><b>📚 Recent Activity</b></summary><br>
+<details>	
+  <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410314285) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
@@ -93,7 +93,7 @@
 5. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2409037741) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
 <!--END_SECTION:activity-->
   
-  </details> 
+</details> 
 
 
 <div>
