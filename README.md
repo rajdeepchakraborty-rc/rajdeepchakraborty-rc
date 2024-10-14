@@ -142,5 +142,12 @@
 </td>
 </tr>
 </table>
-<br>
 
+<!-- Most used Languages -->
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepchakraborty-rc&layout=compact&theme=radical" alt="Most Used Languages">
+</td>
+</tr>
+</table>
