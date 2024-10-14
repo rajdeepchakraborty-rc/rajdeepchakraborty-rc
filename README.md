@@ -131,4 +131,16 @@
 </tr>
 </table>
 
+<!-- GitHub and Streak Stats -->
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepchakraborty-rc&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>
 
