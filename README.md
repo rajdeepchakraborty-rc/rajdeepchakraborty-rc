@@ -36,7 +36,7 @@
     - 🌱 I’m currently learning **Web Development**
   </div>
   <!-- Added Profile Image GIF -->
-  <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
+  <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
 </div>
 
 <!-- Added Skills Section -->
