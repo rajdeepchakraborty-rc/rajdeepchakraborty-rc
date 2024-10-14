@@ -53,6 +53,19 @@
 </div>
 <br>
 
+<!--- Recent Activity Section -->
+<details>	
+  <summary><b>📚 Recent Activity</b></summary><br>
+
+  <!--START_SECTION:activity-->
+1. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410314285) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+2. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410312972) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+3. 🗣 Commented on [#192](https://github.com/UTSAVS26/PySnippets/pull/192#issuecomment-2409987337) in [UTSAVS26/PySnippets](https://github.com/UTSAVS26/PySnippets)
+4. 🗣 Commented on [#140](https://github.com/subhadipbhowmik/bio-branch/pull/140#issuecomment-2409048684) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+5. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2409037741) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
+<!--END_SECTION:activity-->
+  
+</details> 
 
 <details>
   <summary>
@@ -90,9 +103,6 @@
 </details>
 
 
-
-
-
 ## GSSOC Extended(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
   <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> -->
@@ -107,20 +117,9 @@
 </div>
 <br>
 
-<!--- 3rd Section on Recent Projects -->
-
-<details>	
-  <summary><b>📚 Recent Activity</b></summary><br>
-
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410314285) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-2. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410312972) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-3. 🗣 Commented on [#192](https://github.com/UTSAVS26/PySnippets/pull/192#issuecomment-2409987337) in [UTSAVS26/PySnippets](https://github.com/UTSAVS26/PySnippets)
-4. 🗣 Commented on [#140](https://github.com/subhadipbhowmik/bio-branch/pull/140#issuecomment-2409048684) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
-5. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2409037741) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
-<!--END_SECTION:activity-->
-  
-</details> 
+<!-- HoloPin Badge-Hactoberfest 2024 -->
+## Hacktoberfest 2024 badge
+[![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
 
 
 <div>
@@ -131,6 +130,4 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&show_icons=true&locale=en" alt="rajdeepchakraborty-rc" /></p>
 </div>
 
-<!-- HoloPin Badge-Hactoberfest 2024 -->
-## Hacktoberfest 2024 badge
-[![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
+
