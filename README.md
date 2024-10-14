@@ -28,8 +28,8 @@
  -->
 
 
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
+<!-- Added About Me Section and GIF -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
   <!-- Added About Me Section -->
   <div>
     - About me: A passionate CSE Undergrad from India<br>
@@ -38,6 +38,8 @@
   <!-- Added Profile Image GIF -->
   <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
 </div>
+
+
 
 <!-- Added Skills Section -->
 <div align="center">
