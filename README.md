@@ -102,6 +102,8 @@
   </table>
 </details>
 
+<details>	
+ <summary><b>🛠 Badges/Certifications</b></summary><br>
 
 ## GSSOC Extended(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
@@ -121,6 +123,7 @@
 ## Hacktoberfest 2024 badge
 [![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
 
+</details> 
 
 <!-- Profile Summary -->
 <table width="100%" align="center">
