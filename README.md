@@ -17,34 +17,15 @@
 </p>
 -->
 
-<!-- 
-<div>
-  
-  <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300"/>
-
-  - About me: A passionate CSE Undergrad from India<br>
-  - 🌱 I’m currently learning **Web Development**
-</div>
- -->
-
-
 <!-- Added About Me Section and GIF -->
-<div style="overflow: hidden;">
-  <!-- About Me Section -->
-  <div style="float: left;">
-    - About me: A passionate CSE Undergrad from India<br>
-    - 🌱 I’m currently learning **Web Development**
-  </div>
-  
-  <!-- Image Section -->
-  <div style="float: right; margin-left: 20px;">
-    <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
-  </div>
+<div>
+  - About me: A passionate CSE Undergrad from India<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
+    - 🌱 I’m currently learning <strong>Web Development</strong>
 </div>
 
+<br><br><br><br><br><br><br><br>
 
-
-
+---
 
 <!-- Added Skills Section -->
 <div align="center">
@@ -74,28 +55,34 @@
 
 
 <details>
-  <summary>🚀 Open Source Contributions:</summary>
+  <summary>
+    🚀 Open Source Contributions:
+  </summary>
   <br>
   <table width="100%" align="center">
     <tr>
     </tr>
     <tr>
-      <td>GirlScript Summer of Code (GSSoC'24) </td>
+      <td>
+        GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)<img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+      </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
           <li>Contributed to multiple open-source projects.</li>
-          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
+          <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Hacktoberfest 24</td>
+      <td>
+        Hacktoberfest 24<img src="https://cdn.discordapp.com/attachments/657543125190967316/1294560786114674748/Screenshot_2024-10-12_122347.png?ex=670b752f&is=670a23af&hm=26ddd7f41740b8b19ee4985e7568b3892091384b3b85e7165770a4b10f4d1050&" alt="Hacktoberfest 2024" width="80%">
+      </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
-          <li>Managed GitHub repositories, assigned issues, guided contributors, and resolved code conflicts.</li>
-          <li>Successfully handled project administration and contributed to the project's growth and development.</li>
+          <li>Contributed to multiple open-source projects and resolved code conflicts.</li>
+          <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
       </td>
     </tr>
