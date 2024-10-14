@@ -18,12 +18,12 @@
 -->
 
 <!-- Added About Me Section and GIF -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
   <div>
     - About me: A passionate CSE Undergrad from India<br>
     - 🌱 I’m currently learning **Web Development**
   </div>
-  <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" style="margin-right: 20px;"/>
+  <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
 </div>
 
 <!-- Added Skills Section -->
