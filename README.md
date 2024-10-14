@@ -17,12 +17,25 @@
 </p>
 -->
 
-<!-- Added About Me Section and GIF -->
+<!-- 
+<div>
+  
+  <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300"/>
+
+  - About me: A passionate CSE Undergrad from India<br>
+  - 🌱 I’m currently learning **Web Development**
+</div>
+ -->
+
+
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
+  <!-- Added About Me Section -->
   <div>
     - About me: A passionate CSE Undergrad from India<br>
     - 🌱 I’m currently learning **Web Development**
   </div>
+  <!-- Added Profile Image GIF -->
   <img src="./Assets/Coder animation.webp" alt="Profile Image" width="300" />
 </div>
 
