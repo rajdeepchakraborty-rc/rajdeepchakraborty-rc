@@ -5,8 +5,6 @@
 
 <h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">Rajdeep</a></h1>
 
-<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300"/>
-
 <!--- Adding Header Elements -->
 <!---
 <p align="center">
@@ -19,8 +17,12 @@
 </p>
 -->
 
-- About me: A passionate CSE Undergrad from India
-- 🌱 I’m currently learning **Web Development**
+<!-- Added About Me Section and GIF -->
+<div>
+  <img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300"/>
+  - About me: A passionate CSE Undergrad from India<br>
+  - 🌱 I’m currently learning **Web Development**
+</div>
 
 <!-- Added Skills Section -->
 <div align="center">
