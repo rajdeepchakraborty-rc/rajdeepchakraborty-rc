@@ -47,20 +47,24 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <!-- <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MERN"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <!-- 
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/> -->
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <!-- <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary"/> -->
+  <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/> 
+  <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary"/> 
+  -->
 </div>
 <br>
 
