@@ -24,8 +24,11 @@
 
 <!-- Added About Me Section and GIF -->
 <div>
-  - About me: A passionate CSE Undergrad from India<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
-    - 🌱 I’m currently learning <strong>Web Development</strong>
+  👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
+  🎓 Sophomore BTech in Computer Science and Engineering (CSE)<br>
+  ⚡ Open-Source & Tech Enthusiast<br>
+  🌱 I’m currently learning <strong>Web Development</strong><br>
+  🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
 </div>
 
 <br><br><br><br><br><br><br><br>
