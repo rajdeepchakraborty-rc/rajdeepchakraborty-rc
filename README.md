@@ -5,28 +5,30 @@
 
 <!-- <h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">Rajdeep</a></h1> -->
 
+<!-- Added Animated Intro -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajdeep+Chakraborty!;" />
 </h1>
 
 
 <!--- Adding Header Elements -->
-<!---
+
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> - 
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="https://recodehive.com/">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a> 
+  <!-- <a href="http://sanjaykv.com/">Portfolio</a> -  -->
+  <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">LinkedIn</a> -
+  <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a> <!-- (This is a seperator "-")- -->
+  <!-- <a href="https://x.com/sanjay_kv_">Twitter</a> - -->
+  <!-- <a href="https://recodehive.com/">Website</a> - -->
+  <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
+  <!-- <a href="https://topmate.io/sanjaykv/">Contact me</a>  -->
 </p>
--->
+
 
 <!-- Added About Me Section and GIF -->
 <div>
   👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
-  🎓 Sophomore BTech in Computer Science and Engineering (CSE)<br>
-  ⚡ Open-Source & Tech Enthusiast<br>
+  🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
+  ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I’m currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
 </div>
