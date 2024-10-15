@@ -73,11 +73,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414382941) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
-2. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414373749) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
-3. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414370856) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
-4. 🗣 Commented on [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214#issuecomment-2413621397) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
-5. 💪 Opened PR [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+1. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2414493252) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+2. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2414492321) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+3. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2414491116) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+4. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414382941) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
+5. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414373749) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
 <!--END_SECTION:activity-->
   
 </details> 
