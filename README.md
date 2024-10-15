@@ -141,7 +141,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepchakraborty-rc&theme=radical" alt="Profile Summary">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepchakraborty-rc&theme=react" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -150,10 +150,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepchakraborty-rc&theme=radical" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepchakraborty-rc&theme=react" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
@@ -162,7 +162,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepchakraborty-rc&layout=compact&theme=radical" alt="Most Used Languages">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepchakraborty-rc&layout=compact&theme=react" alt="Most Used Languages">
 </td>
 </tr>
 </table>
