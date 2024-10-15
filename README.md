@@ -3,7 +3,16 @@
   <img src="https://komarev.com/ghpvc/?username=rajdeepchakraborty-rc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">Rajdeep</a></h1>
+<!-- <h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">Rajdeep</a></h1> -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&
+    lines=
+    Hi+There!+👋;
+    +I'm+Rajdeep+Chakraborty!;" />
+</h1>
+
 
 <!--- Adding Header Elements -->
 <!---
