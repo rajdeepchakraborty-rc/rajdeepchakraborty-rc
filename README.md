@@ -73,11 +73,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214#issuecomment-2413621397) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
-2. 💪 Opened PR [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
-3. 🗣 Commented on [#564](https://github.com/vishanurag/Canvas-Editor/pull/564#issuecomment-2413016576) in [vishanurag/Canvas-Editor](https://github.com/vishanurag/Canvas-Editor)
-4. 💪 Opened PR [#564](https://github.com/vishanurag/Canvas-Editor/pull/564) in [vishanurag/Canvas-Editor](https://github.com/vishanurag/Canvas-Editor)
-5. 🗣 Commented on [#702](https://github.com/mansiruhil13/Bobble-AI/issues/702#issuecomment-2410314285) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+1. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414382941) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
+2. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414373749) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
+3. 🗣 Commented on [#84](https://github.com/SaranshBangar/Daneizo/pull/84#issuecomment-2414370856) in [SaranshBangar/Daneizo](https://github.com/SaranshBangar/Daneizo)
+4. 🗣 Commented on [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214#issuecomment-2413621397) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+5. 💪 Opened PR [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
 <!--END_SECTION:activity-->
   
 </details> 
