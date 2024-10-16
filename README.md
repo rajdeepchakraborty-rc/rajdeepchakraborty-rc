@@ -184,6 +184,7 @@
 
 ---
 
+<!-- Added Random Dev Quote -->
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -192,6 +193,5 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
