@@ -76,11 +76,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/yagnik2411/Quiz-Genius/pull/102#issuecomment-2416473172) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
-2. 💪 Opened PR [#102](https://github.com/yagnik2411/Quiz-Genius/pull/102) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
-3. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2416425628) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
-4. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2416404118) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
-5. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2416403806) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+1. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2416668011) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. 🗣 Commented on [#102](https://github.com/yagnik2411/Quiz-Genius/pull/102#issuecomment-2416473172) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+3. 💪 Opened PR [#102](https://github.com/yagnik2411/Quiz-Genius/pull/102) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+4. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2416425628) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
+5. 🗣 Commented on [#81](https://github.com/yagnik2411/Quiz-Genius/issues/81#issuecomment-2416404118) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
 <!--END_SECTION:activity-->
   
 </details> 
