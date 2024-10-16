@@ -40,33 +40,33 @@
 <!-- Added Skills Section -->
 <div align="center">
   <h3>Skills</h3>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
+  <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/>
+  <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
+  <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/>
+  <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
+  <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/>
+  <img title="Python" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
+  <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
+  <img title="Canva" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva Logo"/>
   <!-- 
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
-  <img src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages"/>
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
-  <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/> 
-  <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary"/> 
+  <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
+  <img title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
+  <img title="DaVinci Resolve" src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
+  <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/>
+  <img title="Express.js" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js Logo"/>
+  <img title="React.js" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js Logo"/>
+  <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/>
+  <img title="PHP" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP Logo"/>
+  <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/>
+  <img title="DBMS" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/>
+  <img title="SQL" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo"/>
+  <img title="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Logo"/>
+  <img title="Rest API" src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API Logo"/>
+  <img title="Npm packages" src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages Logo"/>
+  <img title="Framer" src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer Logo"/>
+  <img title="System Design" src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design Logo"/>
+  <img title="Cloudinary" src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary Logo"/> 
   -->
 </div>
 <br>
