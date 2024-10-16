@@ -143,19 +143,9 @@
 
 </details> 
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajdeepchakraborty-rc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<h3 align="center">My GitHub Stats</h3>
+<details>	
+ <summary><b>🛠 My GitHub Stats</b></summary><br>
+  
 <!-- Profile Summary -->
 <table width="100%" align="center">
 <tr>
@@ -185,6 +175,17 @@
 </td>
 </tr>
 </table>
+</details>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajdeepchakraborty-rc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <!-- Snake Contribution Animation -->
 
