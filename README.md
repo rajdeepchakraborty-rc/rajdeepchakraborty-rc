@@ -47,8 +47,11 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
   <!-- 
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
+  <img src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
