@@ -73,11 +73,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414722479) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-2. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414712090) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-3. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414710353) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-4. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414709557) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-5. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414708323) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
+1. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2414803722) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. ❗ Opened issue [#862](https://github.com/recodehive/awesome-github-profiles/issues/862) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+3. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414722479) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
+4. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414712090) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
+5. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2414710353) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
 <!--END_SECTION:activity-->
   
 </details> 
