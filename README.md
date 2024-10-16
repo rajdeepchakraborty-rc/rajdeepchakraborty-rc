@@ -144,42 +144,43 @@
 </details> 
 
 <details>	
- <summary><b>🛠 My GitHub Stats</b></summary><br>
-  
-<!-- Profile Summary -->
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepchakraborty-rc&theme=react" alt="Profile Summary">
-</td>
-</tr>
-</table>
+ <summary><b>🛠 GitHub Stats/Trophies</b></summary><br>
+  <h2>📊GitHub Stats</h2>
 
-<!-- GitHub and Streak Stats -->
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&count_private=true&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepchakraborty-rc&count_private=true&theme=react" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
+  <!-- Profile Summary -->
+  <table width="100%" align="center">
+  <tr>
+  <td>
+    <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepchakraborty-rc&theme=react" alt="Profile Summary">
+  </td>
+  </tr>
+  </table>
 
-<!-- Most used Languages -->
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepchakraborty-rc&layout=compact&theme=react" alt="Most Used Languages">
-</td>
-</tr>
-</table>
+  <!-- GitHub and Streak Stats -->
+  <table width="100%" align="center">
+  <tr>
+  <td>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rajdeepchakraborty-rc&count_private=true&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
+  </td>
+  <td>
+    <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepchakraborty-rc&count_private=true&theme=react" alt="Streak Stats"/>
+  </td>
+  </tr>
+  </table>  
+
+  <!-- Most used Languages -->
+  <table width="100%" align="center">
+  <tr>
+  <td>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepchakraborty-rc&layout=compact&theme=react" alt="Most Used Languages">
+  </td>
+  </tr>
+  </table>
+
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=rajdeepchakraborty-rc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </details>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajdeepchakraborty-rc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
