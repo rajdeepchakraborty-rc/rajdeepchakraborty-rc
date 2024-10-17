@@ -81,11 +81,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
-2. 🗣 Commented on [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127#issuecomment-2418637515) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-3. 🔒 Closed issue [#127](https://github.com/SwanandD121/FeatherPerfect_fe/issues/127) in [SwanandD121/FeatherPerfect_fe](https://github.com/SwanandD121/FeatherPerfect_fe)
-4. 🗣 Commented on [#102](https://github.com/yagnik2411/Quiz-Genius/pull/102#issuecomment-2418588803) in [yagnik2411/Quiz-Genius](https://github.com/yagnik2411/Quiz-Genius)
-5. ❗ Opened issue [#71](https://github.com/Asiatik/Join_Asiatik/issues/71) in [Asiatik/Join_Asiatik](https://github.com/Asiatik/Join_Asiatik)
+1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419079241) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+2. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419073821) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+3. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419070980) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+4. ❗ Opened issue [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+5. ❗ Opened issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
 <!--END_SECTION:activity-->
   
 </details> 
