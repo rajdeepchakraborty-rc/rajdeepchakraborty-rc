@@ -3,6 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=rajdeepchakraborty-rc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- Added Profile Banner -->
+<img align="center" src="Assets/header_M.png" alt="Profile Image Header" /><br>
+
+
 <!-- <h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">Rajdeep</a></h1> -->
 
 <!-- Added Animated Intro -->
