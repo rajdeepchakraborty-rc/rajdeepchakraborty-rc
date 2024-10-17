@@ -81,11 +81,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419079241) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-2. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419073821) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-3. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419070980) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-4. ❗ Opened issue [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-5. ❗ Opened issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
+1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419089385) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+2. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419084286) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+3. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419079241) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+4. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419073821) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+5. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419070980) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
 <!--END_SECTION:activity-->
   
 </details> 
