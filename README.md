@@ -43,9 +43,15 @@
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Added Skills Section -->
+<br>
+
+<!-- Added Tech Stack Section -->
 <div align="center">
-  <h3>Skills</h3>
+  
+  <h2>🧑‍💻Tech Stack🧰</h2>
+
+  ---
+
   <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
   <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/>
   <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
