@@ -15,7 +15,7 @@
 </h1>
 
 
-<!--- Adding Header Elements -->
+<!--- Adding Socials -->
 
 <p align="center">
   <!-- <a href="http://sanjaykv.com/">Portfolio</a> -  -->
