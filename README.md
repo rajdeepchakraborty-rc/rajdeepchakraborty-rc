@@ -47,11 +47,9 @@
 
 <!-- Added Tech Stack Section -->
 <div align="center">
-  
-  <h2>🧑‍💻Tech Stack🧰</h2>
+  <img title="Tech Stack" src="Assets/Tech-Stack.png" width="300">
 
   ---
-
   <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
   <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/>
   <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
