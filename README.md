@@ -45,7 +45,7 @@
 
 <br>
 
-<!-- Added Tech Stack Section -->
+<!-- Added: Tech Stack Section -->
 <div align="center">
   <img title="Tech Stack" src="Assets/Tech-Stack.png" width="300">
 
