@@ -89,11 +89,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2422973298) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-2. ❗ Opened issue [#144](https://github.com/GrowInCommunity/support/issues/144) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
-3. 🗣 Commented on [#613](https://github.com/Magic-Academy/.github/issues/613#issuecomment-2422703933) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
-4. ❗ Opened issue [#629](https://github.com/infraform/contribute/issues/629) in [infraform/contribute](https://github.com/infraform/contribute)
-5. ❗ Opened issue [#613](https://github.com/Magic-Academy/.github/issues/613) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
+1. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+2. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
+4. 💪 Opened PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
+5. 🗣 Commented on [#2](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/issues/2#issuecomment-2423567328) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
 <!--END_SECTION:activity-->
   
 </details> 
