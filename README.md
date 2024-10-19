@@ -89,11 +89,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#857](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/pull/857#issuecomment-2424113782) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-2. 🗣 Commented on [#857](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/pull/857#issuecomment-2424113574) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-3. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2424111704) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-4. 💪 Opened PR [#857](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/pull/857) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-5. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2424105046) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+1. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2424170066) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+2. ❗ Opened issue [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+3. ❗ Opened issue [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+4. ❗ Opened issue [#1063](https://github.com/AlgoGenesis/C/issues/1063) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#857](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/pull/857#issuecomment-2424113782) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
 <!--END_SECTION:activity-->
   
 </details> 
