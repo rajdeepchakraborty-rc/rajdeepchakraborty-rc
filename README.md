@@ -205,7 +205,15 @@
 
 <!-- Snake Contribution Animation -->
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div> -->
+
+<!-- Added: New Heading for Snake Animation -->
+<div align="center">
+  <img src="https://media.tenor.com/BhU1V9CAAngAAAAi/cute-sneki.gif" alt="Snake Gif 1" width="50" height="50" style="vertical-align: middle;" />
+  <h2 style="display: inline; margin: 0 10px;">My Contributions</h2>
+  <img src="https://media.tenor.com/mkPK7XglYZ4AAAAi/cute-sneki.gif" alt="Snake Gif 2" width="50" height="50" style="vertical-align: middle;" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
