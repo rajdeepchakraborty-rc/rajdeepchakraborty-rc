@@ -34,7 +34,7 @@
   👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
   🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
-  🌱 I’m currently learning <strong>Web Development</strong><br>
+  🌱 I am currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
 </div>
 
