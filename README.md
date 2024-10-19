@@ -12,9 +12,9 @@
 <!-- Added Animated Intro -->
 <h1 align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
-    <img style="padding: 0 0 10 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="50">    
+    <img style="padding: 0 0 10 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60">    
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Rajdeep+Chakraborty!;" />
-    <img style="padding: 0 0 10 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="50">
+    <img style="padding: 0 0 10 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60">
   </div>
 </h1>
 
