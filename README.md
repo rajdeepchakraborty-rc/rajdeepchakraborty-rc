@@ -199,8 +199,7 @@
 
 <!-- Added: Animated Heading for Random Dev Quote -->
 <div align="center">
-  
-  <h2 style="display: inline; margin: 0 10px;">
+  <h2 style="display: inline; margin: 0 5px;">
     <img src="https://media.tenor.com/_m9BeUagaMkAAAAi/writing-hand-joypixels.gif" alt="Writing Hand" width="50" height="50" style="vertical-align: middle; margin: 0 5 25 0" />Random Dev Quote
   </h2>
 </div>
