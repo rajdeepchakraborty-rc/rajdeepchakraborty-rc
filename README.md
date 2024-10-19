@@ -89,11 +89,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-2. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
-4. 💪 Opened PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
-5. 🗣 Commented on [#2](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/issues/2#issuecomment-2423567328) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+1. 🎉 Merged PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+2. 💪 Opened PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+4. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+5. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
 <!--END_SECTION:activity-->
   
 </details> 
