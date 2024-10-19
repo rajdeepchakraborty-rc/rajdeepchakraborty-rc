@@ -213,11 +213,6 @@
 
 <!-- Snake Contribution Animation -->
 
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</div> -->
-
 <!-- Added: New Heading for Snake Animation -->
 <div align="center">
   
