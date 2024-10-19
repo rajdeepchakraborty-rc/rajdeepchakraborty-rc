@@ -86,11 +86,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214#issuecomment-2421751185) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
-2. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419089385) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-3. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419084286) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-4. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419079241) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-5. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2419073821) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+1. ❗ Opened issue [#144](https://github.com/GrowInCommunity/support/issues/144) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
+2. 🗣 Commented on [#613](https://github.com/Magic-Academy/.github/issues/613#issuecomment-2422703933) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
+3. ❗ Opened issue [#629](https://github.com/infraform/contribute/issues/629) in [infraform/contribute](https://github.com/infraform/contribute)
+4. ❗ Opened issue [#613](https://github.com/Magic-Academy/.github/issues/613) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
+5. ❗ Opened issue [#602](https://github.com/WebXDAO/start-here/issues/602) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
 <!--END_SECTION:activity-->
   
 </details> 
