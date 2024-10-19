@@ -89,11 +89,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-2. 💪 Opened PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-4. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-5. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/rc-demo/pull/1) in [rajdeepchakraborty-rc/rc-demo](https://github.com/rajdeepchakraborty-rc/rc-demo)
+1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2423790324) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+2. 🎉 Merged PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 💪 Opened PR [#4](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/4) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+4. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+5. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/3) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
 <!--END_SECTION:activity-->
   
 </details> 
