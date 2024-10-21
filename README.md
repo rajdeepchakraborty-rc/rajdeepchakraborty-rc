@@ -87,16 +87,27 @@
 
 <!--- Recent Activity Section -->
 <details>	
-  <summary><b>📚 Recent Activity</b></summary><br>
+  <summary><b>📚 Recent Projects & Activity</b></summary><br>
+
+  # Projects
+
+  ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
+  <!--
+  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
+  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
+  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
+  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
+  -->
+
+  # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426564893) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-2. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426556896) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426478178) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-4. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426469305) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-5. 🗣 Commented on [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15#issuecomment-2425685086) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
-<!--END_SECTION:activity-->
-  
+  1. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426564893) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+  2. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426556896) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+  3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426478178) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+  4. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426469305) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+  5. 🗣 Commented on [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15#issuecomment-2425685086) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
+  <!--END_SECTION:activity--> 
 </details> 
 
 <details>
