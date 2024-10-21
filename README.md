@@ -52,37 +52,29 @@
 <!-- Added: Tech Stack Section -->
 <div align="center">
   <img title="Tech Stack" src="Assets/Tech-Stack.png" width="300">
-
-  ---
-  <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
-  <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/>
-  <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
-  <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/>
-  <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
-  <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/>
-  <img title="Python" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
-  <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
-  <img title="Canva" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva Logo"/>
-  <!-- 
-  <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
-  <img title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
-  <img title="DaVinci Resolve" src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
-  <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/>
-  <img title="Express.js" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js Logo"/>
-  <img title="React.js" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js Logo"/>
-  <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/>
-  <img title="PHP" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP Logo"/>
-  <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/>
-  <img title="DBMS" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/>
-  <img title="SQL" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo"/>
-  <img title="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Logo"/>
-  <img title="Rest API" src="https://img.icons8.com/color/48/000000/api.png" alt="Rest API Logo"/>
-  <img title="Npm packages" src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm packages Logo"/>
-  <img title="Framer" src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer Logo"/>
-  <img title="System Design" src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design Logo"/>
-  <img title="Cloudinary" src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary Logo"/> 
-  -->
 </div>
+
+---
+<br>
+
+Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
+<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
+
 <br>
 
 <!--- Recent Activity Section -->
