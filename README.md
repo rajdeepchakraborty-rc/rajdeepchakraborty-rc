@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265#issuecomment-2426714480) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
-2. ❗ Opened issue [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
-3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426564893) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-4. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426556896) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-5. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426478178) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+1. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2426992843) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 🗣 Commented on [#457](https://github.com/mdazfar2/Ezyshop/issues/457#issuecomment-2426985426) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265#issuecomment-2426714480) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+4. ❗ Opened issue [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+5. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2426564893) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
   <!--END_SECTION:activity--> 
 </details> 
 
