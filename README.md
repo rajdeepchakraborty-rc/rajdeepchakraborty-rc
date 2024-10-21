@@ -90,11 +90,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/740#issuecomment-2422973298) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-2. ❗ Opened issue [#144](https://github.com/GrowInCommunity/support/issues/144) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
-3. 🗣 Commented on [#613](https://github.com/Magic-Academy/.github/issues/613#issuecomment-2422703933) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
-4. ❗ Opened issue [#629](https://github.com/infraform/contribute/issues/629) in [infraform/contribute](https://github.com/infraform/contribute)
-5. ❗ Opened issue [#613](https://github.com/Magic-Academy/.github/issues/613) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
+1. 🗣 Commented on [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15#issuecomment-2425685086) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
+2. 🔒 Closed issue [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
+3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2424170066) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+4. ❗ Opened issue [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+5. ❗ Opened issue [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
 <!--END_SECTION:activity-->
   
 </details> 
