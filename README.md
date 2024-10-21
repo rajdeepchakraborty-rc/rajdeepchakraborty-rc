@@ -89,11 +89,11 @@
   <summary><b>📚 Recent Activity</b></summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2424170066) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-2. ❗ Opened issue [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-3. ❗ Opened issue [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-4. ❗ Opened issue [#1063](https://github.com/AlgoGenesis/C/issues/1063) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#857](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/pull/857#issuecomment-2424113782) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+1. 🗣 Commented on [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15#issuecomment-2425685086) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
+2. 🔒 Closed issue [#15](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks/issues/15) in [rajdeepchakraborty-rc/Phantom_Hacks](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)
+3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2424170066) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+4. ❗ Opened issue [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+5. ❗ Opened issue [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
 <!--END_SECTION:activity-->
   
 </details> 
