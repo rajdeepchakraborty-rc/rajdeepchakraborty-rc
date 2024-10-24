@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2432658947) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-2. 🗣 Commented on [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265#issuecomment-2427357946) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
-3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2427069956) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-4. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2427043499) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-5. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2426992843) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+1. 💪 Opened PR [#1055](https://github.com/mansiruhil13/Bobble-AI/pull/1055) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+2. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2432658947) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+3. 🗣 Commented on [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265#issuecomment-2427357946) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+4. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2427069956) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+5. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2427043499) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
   <!--END_SECTION:activity--> 
 </details> 
 
