@@ -184,7 +184,6 @@
         </td>
       </tr>
   </table>
-  <br>
 
   <!-- HoloPin Badge-Hactoberfest 2024 -->
   ## Hacktoberfest 2024 badge
