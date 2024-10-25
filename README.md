@@ -92,13 +92,17 @@
   </td>
   <td>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-      <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
-      <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"> 
-      <img src="https://img.shields.io/badge/-Android%20Studio-green?logo=Android&logoColor=white&style=flat"> 
-      <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">
-      <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat">
-      <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat">
+      <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
+      <img title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code Logo"/>
+      <img title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
+      <img title="DaVinci Resolve" src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
+      <img title="Canva" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva Logo"/>
+      <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
+      <!-- <img title="Cloudflare" src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare Logo"/> -->
+      <!-- <img title="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio Logo"/> -->
+      <!-- <img title="Jupyter" src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Logo"/> -->
+      <!-- <img title="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm Logo"/> -->
+      <!-- <img title="TensorFlow" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Logo"/> -->
     </div>
   </td>
   </tr>
