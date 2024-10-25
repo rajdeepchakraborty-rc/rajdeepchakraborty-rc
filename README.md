@@ -148,27 +148,47 @@
 <details>	
  <summary><b>🛠 Badges/Certifications</b></summary><br>
 
-## GSSoC Extended(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-  <img title="Postman-Challenge" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <!-- <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
-  <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
-  <!-- <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
-  <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
-  </a>
-</div>
-<br>
+  ## GSSoC Extended(24) Badges 🪶
 
-<!-- HoloPin Badge-Hactoberfest 2024 -->
-## Hacktoberfest 2024 badge
-[![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
+  <table width="100%" align="center">
+      <tr>
+      </tr>
+      <tr>
+        <td>
+          <strong>Leaderboard Achievement Badges</strong><br>
+        </td>
+        <td>
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+            <img title="Postman-Challenge" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+            <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+            <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+            <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+            <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+            <!-- <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+            <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+            <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+            <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Side Quest Achievement Badges</strong><br>
+        </td>
+        <td>
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+            <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
+            <!-- <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
+            <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
+          </div>
+        </td>
+      </tr>
+  </table>
+  <br>
+
+  <!-- HoloPin Badge-Hactoberfest 2024 -->
+  ## Hacktoberfest 2024 badge
+  [![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
 
 </details> 
 
