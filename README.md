@@ -143,11 +143,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436118130) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
-2. 🗣 Commented on [#1027](https://github.com/ayush-that/FinVeda/pull/1027#issuecomment-2436094783) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-3. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436086267) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
-4. 🗣 Commented on [#309](https://github.com/Anjaliavv51/Retro/pull/309#issuecomment-2436082174) in [Anjaliavv51/Retro](https://github.com/Anjaliavv51/Retro)
-5. 🗣 Commented on [#309](https://github.com/Anjaliavv51/Retro/pull/309#issuecomment-2436075517) in [Anjaliavv51/Retro](https://github.com/Anjaliavv51/Retro)
+1. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437210692) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+2. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437194488) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+3. 💪 Opened PR [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+4. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2436986812) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+5. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436118130) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
   <!--END_SECTION:activity--> 
 </details> 
 
@@ -205,8 +205,8 @@
             <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
             <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
             <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-            <!-- <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-            <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+            <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+            <!-- <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
             <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
             <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
           </div>
