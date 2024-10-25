@@ -56,8 +56,6 @@
 
 <br>
 
-# Table Format
-
 <table width="100%" align="center">
   <tr>
   </tr>
@@ -117,34 +115,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-# Text Format
-
-Languages: 
-<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;<!--
-<img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=white&style=flat">&nbsp; -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=css3&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">&nbsp;<br> <!--
-<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat">&nbsp;<br>-->
-Frameworks and Libraries:
-<img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;<br>
-Tools and Platforms: 
-<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;<!--
-<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp; -->
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp; <!--
-<img src="https://img.shields.io/badge/-Android%20Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
-Operating Systems:
-<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=windows&logoColor=white&style=flat">&nbsp;<br><!--
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MacOS-F7F7F7?logo=apple&logoColor=black&style=flat">&nbsp;<br> -->
 
 <br>
 
