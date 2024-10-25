@@ -88,7 +88,7 @@
   </tr>
   <tr>
   <td>
-    <strong>Tools and Platforms:</strong><br>
+    <strong>Tools and Platforms</strong><br>
   </td>
   <td>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -108,15 +108,13 @@
     </td>
     <td>
       <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-        <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=windows&logoColor=white&style=flat">
-        <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">
-        <img src="https://img.shields.io/badge/-MacOS-F7F7F7?logo=apple&logoColor=black&style=flat">
+        <img title="Windows" src="https://img.icons8.com/color/48/000000/windows-logo.png" alt="Windows Logo"/>
+        <!-- <img title="Linux" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux Logo"/> -->
+        <!-- <img title="Mac" src="https://img.icons8.com/color/48/000000/mac-os.png" alt="Mac Logo"/> -->
       </div>
     </td>
   </tr>
 </table>
-
-<br>
 
 ---
 
