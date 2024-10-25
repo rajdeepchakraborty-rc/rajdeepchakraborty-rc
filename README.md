@@ -91,7 +91,7 @@
       <img title="React" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
       <img title="Django" src="https://img.icons8.com/color/48/000000/django.png" alt="Django Logo"/>
       <img title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="48" height="48"/>
-      <img title="Angular" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular Logo"/>
+      <img title="Angular" src="https://icon.icepanel.io/Technology/svg/Angular.svg" alt="Angular Logo" width="48" height="48"/>
       <img title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js Logo"/>
       <img title="Bootstrap" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap Logo" width="48" height="48"/>
       <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
