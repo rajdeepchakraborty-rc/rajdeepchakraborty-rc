@@ -73,7 +73,8 @@
       <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/>
       <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
       <!-- <img title="R" src="https://img.icons8.com/ios-filled/50/000000/r-project.png" alt="R Logo"/> -->
-      <img title="SQL" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo"/>
+      <!-- <img title="SQL" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo"/> -->
+      <!-- <img title="PHP" src="https://img.icons8.com/color/48/000000/php.png" alt="PHP Logo"/> -->
     </div>
   </td>
   </tr>
@@ -83,9 +84,11 @@
   </td>
   <td>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-      <img title="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy Logo"/>
-      <img title="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo"/>
-      <img title="Sklearn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="48" height="48"/>
+      <!-- <img title="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy Logo"/> -->
+      <!-- <img title="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo"/> -->
+      <!-- <img title="Sklearn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="48" height="48"/> -->
+      <!-- <img title="Express.js" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js Logo"/> -->
+      <!-- <img title="React.js" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js Logo"/> -->
     </div>
   </td>
   </tr>
@@ -102,6 +105,13 @@
       <img title="Canva" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva Logo"/>
       <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
       <!-- <img title="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL Logo"/> -->
+      <!-- <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/> -->
+      <!-- <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/> -->
+      <!-- <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/> -->
+      <!-- <img title="Database Management Systems" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/> -->
+      <!-- <img title="REST API" src="https://d33wubrfki0l68.cloudfront.net/70f55b8fa4e75bc7489ea68f628a8a60781c6387/18999/static/rest-api-c2f25fbadba477948398d96acac29c08.png" alt="REST API Logo" width="48" height="48"/> -->
+      <!-- <img title="Cloudinary" src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary Logo"/>  -->
+      <!-- <img title="Firebase" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Logo"/> -->
       <!-- <img title="Cloudflare" src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare Logo"/> -->
       <!-- <img title="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio Logo"/> -->
       <!-- <img title="Jupyter" src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Logo"/> -->
