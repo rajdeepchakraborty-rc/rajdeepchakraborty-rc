@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2435826669) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-2. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2435793675) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-3. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2435783495) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-4. 💪 Opened PR [#1055](https://github.com/mansiruhil13/Bobble-AI/pull/1055) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-5. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2432658947) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+1. ❗ Opened issue [#890](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/890) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+2. 🗣 Commented on [#1055](https://github.com/mansiruhil13/Bobble-AI/pull/1055#issuecomment-2435949184) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+3. 🗣 Commented on [#1055](https://github.com/mansiruhil13/Bobble-AI/pull/1055#issuecomment-2435943595) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+4. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2435901741) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+5. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2435896236) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
   <!--END_SECTION:activity--> 
 </details> 
 
