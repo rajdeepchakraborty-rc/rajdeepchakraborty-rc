@@ -93,7 +93,7 @@
       <img title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="48" height="48"/>
       <img title="Angular" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular Logo"/>
       <img title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js Logo"/>
-      <img title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap Logo"/>
+      <img title="Bootstrap" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap Logo" width="48" height="48"/>
       <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
       <img title="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Logo"/>
       <img title="Hibernate" src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate Logo"/>     
@@ -111,6 +111,7 @@
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
       <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" />
       <img title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code Logo"/>
+      <img title="PyCharm" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm Logo" width="48" height="48"/>
       <img title="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Logo" />
       <img title="DaVinci Resolve" src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="DaVinci Resolve Logo" />
       <img title="Canva" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva Logo"/>
