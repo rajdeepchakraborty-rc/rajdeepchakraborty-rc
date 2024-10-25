@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437210692) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
-2. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437194488) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
-3. 💪 Opened PR [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
-4. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2436986812) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-5. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436118130) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
+1. 🎉 Merged PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+2. 💪 Opened PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437210692) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+4. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437194488) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+5. 💪 Opened PR [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
   <!--END_SECTION:activity--> 
 </details> 
 
