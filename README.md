@@ -24,9 +24,9 @@
 <p align="center">
   <!-- <a href="http://sanjaykv.com/">Portfolio</a> -  -->
   <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">LinkedIn</a> -
-  <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a> -
   <a href="https://x.com/RajChkDev">Twitter</a> -
-  <a href="https://dev.to/rajdeepchakraborty">Blog</a> 
+  <a href="https://dev.to/rajdeepchakraborty">Blog</a> -
+  <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a>
   <!-- Add this later- -->
   <!-- <a href="https://recodehive.com/">Website</a> - -->
   <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
@@ -102,11 +102,11 @@ Operating Systems:
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2432658947) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-2. 🗣 Commented on [#1265](https://github.com/ANSHIKA-26/WordWise/issues/1265#issuecomment-2427357946) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
-3. 🗣 Commented on [#969](https://github.com/mansiruhil13/Bobble-AI/issues/969#issuecomment-2427069956) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
-4. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2427043499) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-5. 🗣 Commented on [#825](https://github.com/mdazfar2/Ezyshop/issues/825#issuecomment-2426992843) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+1. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436118130) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
+2. 🗣 Commented on [#1027](https://github.com/ayush-that/FinVeda/pull/1027#issuecomment-2436094783) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+3. 🗣 Commented on [#398](https://github.com/Code-Social/official-website/pull/398#issuecomment-2436086267) in [Code-Social/official-website](https://github.com/Code-Social/official-website)
+4. 🗣 Commented on [#309](https://github.com/Anjaliavv51/Retro/pull/309#issuecomment-2436082174) in [Anjaliavv51/Retro](https://github.com/Anjaliavv51/Retro)
+5. 🗣 Commented on [#309](https://github.com/Anjaliavv51/Retro/pull/309#issuecomment-2436075517) in [Anjaliavv51/Retro](https://github.com/Anjaliavv51/Retro)
   <!--END_SECTION:activity--> 
 </details> 
 
@@ -148,24 +148,46 @@ Operating Systems:
 <details>	
  <summary><b>🛠 Badges/Certifications</b></summary><br>
 
-## GSSoC Extended(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
-  <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> -->
-  <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <!-- <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
-  </a>
-</div>
-<br>
+  ## GSSoC Extended(24) Badges 🪶
 
-<!-- HoloPin Badge-Hactoberfest 2024 -->
-## Hacktoberfest 2024 badge
-[![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
+  <table width="100%" align="center">
+      <tr>
+      </tr>
+      <tr>
+        <td>
+          <strong>Leaderboard Achievement Badges</strong><br>
+        </td>
+        <td>
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+            <img title="Postman-Challenge" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+            <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+            <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+            <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+            <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+            <!-- <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+            <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+            <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+            <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Side Quest Achievement Badges</strong><br>
+        </td>
+        <td>
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+            <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
+            <!-- <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
+            <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
+          </div>
+        </td>
+      </tr>
+  </table>
+
+  <!-- HoloPin Badge-Hactoberfest 2024 -->
+  ## Hacktoberfest 2024 badge
+  [![An image of @rajdeepchakrabortyrc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepchakrabortyrc)](https://holopin.io/@rajdeepchakrabortyrc)
 
 </details> 
 
