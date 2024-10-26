@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2439603394) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-2. 🎉 Merged PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 💪 Opened PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-4. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437210692) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
-5. 🗣 Commented on [#2276](https://github.com/GSSoC24/Postman-Challenge/pull/2276#issuecomment-2437194488) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+1. ❗ Opened issue [#249](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/249) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+2. ❗ Opened issue [#1280](https://github.com/AlgoGenesis/C/issues/1280) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2439603394) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+4. 🎉 Merged PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+5. 💪 Opened PR [#5](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/5) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
   <!--END_SECTION:activity--> 
 </details> 
 
