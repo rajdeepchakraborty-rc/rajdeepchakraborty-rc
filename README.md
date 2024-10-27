@@ -127,7 +127,6 @@
       <!-- <img title="Cloudflare" src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare Logo"/> -->
       <!-- <img title="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio Logo"/> -->
       <!-- <img title="Jupyter" src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Logo"/> -->
-      <!-- <img title="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm Logo"/> -->
       <!-- <img title="TensorFlow" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Logo"/> -->
     </div>
   </td>
