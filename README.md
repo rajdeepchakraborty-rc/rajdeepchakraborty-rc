@@ -84,22 +84,22 @@
   </td>
   <td>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-      <img title="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy Logo"/>
-      <img title="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo"/>
-      <img title="Sklearn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="48" height="48"/>
-      <img title="Express" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express Logo"/>
-      <img title="React" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
-      <img title="Django" src="https://img.icons8.com/color/48/000000/django.png" alt="Django Logo"/>
-      <img title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="48" height="48"/>
-      <img title="Angular" src="https://icon.icepanel.io/Technology/svg/Angular.svg" alt="Angular Logo" width="48" height="48"/>
-      <img title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js Logo"/>
-      <img title="Bootstrap" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap Logo" width="48" height="48"/>
-      <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
-      <img title="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Logo"/>
-      <img title="Hibernate" src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate Logo"/>     
-      <img title="Ruby on Rails" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" alt="Ruby on Rails Logo" width="48" height="48"/>
-      <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/>
-      <img title="Lodash" src="https://brandeps.com/logo-download/L/Lodash-logo-vector-01.svg" alt="Lodash Logo" width="48" height="48"/>
+      <!-- <img title="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy Logo"/> -->
+      <!-- <img title="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo"/> -->
+      <!-- <img title="Sklearn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="48" height="48"/> -->
+      <!-- <img title="Express" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express Logo"/> -->
+      <!-- <img title="React" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/> -->
+      <!-- <img title="Django" src="https://img.icons8.com/color/48/000000/django.png" alt="Django Logo"/> -->
+      <!-- <img title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="48" height="48"/> -->
+      <!-- <img title="Angular" src="https://icon.icepanel.io/Technology/svg/Angular.svg" alt="Angular Logo" width="48" height="48"/> -->
+      <!-- <img title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js Logo"/> -->
+      <!-- <img title="Bootstrap" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap Logo" width="48" height="48"/> -->
+      <!-- <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/> -->
+      <!-- <img title="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Logo"/> -->
+      <!-- <img title="Hibernate" src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate Logo"/>      -->
+      <!-- <img title="Ruby on Rails" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" alt="Ruby on Rails Logo" width="48" height="48"/> -->
+      <!-- <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/> -->
+      <!-- <img title="Lodash" src="https://brandeps.com/logo-download/L/Lodash-logo-vector-01.svg" alt="Lodash Logo" width="48" height="48"/> -->
     </div>
   </td>
   </tr>
