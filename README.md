@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#373](https://github.com/Shreyaa173/Code-Book/issues/373) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
-2. ❗ Opened issue [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-3. ❗ Opened issue [#249](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/249) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-4. ❗ Opened issue [#1280](https://github.com/AlgoGenesis/C/issues/1280) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#795](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/795#issuecomment-2439603394) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+1. 🗣 Commented on [#890](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/890#issuecomment-2439865530) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+2. 🗣 Commented on [#1055](https://github.com/mansiruhil13/Bobble-AI/pull/1055#issuecomment-2439863362) in [mansiruhil13/Bobble-AI](https://github.com/mansiruhil13/Bobble-AI)
+3. ❗ Opened issue [#373](https://github.com/Shreyaa173/Code-Book/issues/373) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
+4. ❗ Opened issue [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+5. ❗ Opened issue [#249](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/249) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
   <!--END_SECTION:activity--> 
 </details> 
 
