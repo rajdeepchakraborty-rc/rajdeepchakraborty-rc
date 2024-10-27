@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4095](https://github.com/anuragverma108/SwapReads/issues/4095) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-2. ❗ Opened issue [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-3. ❗ Opened issue [#2204](https://github.com/ayush-that/FinVeda/issues/2204) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 🗣 Commented on [#1065](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/1065#issuecomment-2439947067) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
-5. 🗣 Commented on [#2046](https://github.com/ayush-that/FinVeda/issues/2046#issuecomment-2439938685) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+1. 🗣 Commented on [#4102](https://github.com/anuragverma108/SwapReads/pull/4102#issuecomment-2440025543) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+2. 💪 Opened PR [#4102](https://github.com/anuragverma108/SwapReads/pull/4102) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+3. ❗ Opened issue [#4095](https://github.com/anuragverma108/SwapReads/issues/4095) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. ❗ Opened issue [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+5. ❗ Opened issue [#2204](https://github.com/ayush-that/FinVeda/issues/2204) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
   <!--END_SECTION:activity--> 
 </details> 
 
