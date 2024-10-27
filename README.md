@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/issues/1) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
-2. 🎉 Merged PR [#2](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/pull/2) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
-3. 💪 Opened PR [#2](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/pull/2) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
-4. ❗ Opened issue [#1](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/issues/1) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
-5. 🗣 Commented on [#890](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/890#issuecomment-2439865530) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+1. ❗ Opened issue [#1065](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/issues/1065) in [ML-Fusion-Lab/ML-Fusion-Lab-Website](https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website)
+2. ❗ Opened issue [#1048](https://github.com/aditya-bhaumik/Pathsphere/issues/1048) in [aditya-bhaumik/Pathsphere](https://github.com/aditya-bhaumik/Pathsphere)
+3. 🔒 Closed issue [#1](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/issues/1) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
+4. 🎉 Merged PR [#2](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/pull/2) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
+5. 💪 Opened PR [#2](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts/pull/2) in [rajdeepchakraborty-rc/WEB-Dev-Concepts](https://github.com/rajdeepchakraborty-rc/WEB-Dev-Concepts)
   <!--END_SECTION:activity--> 
 </details> 
 
