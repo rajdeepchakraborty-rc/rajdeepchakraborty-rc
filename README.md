@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440069649) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-2. ❗ Opened issue [#4111](https://github.com/anuragverma108/SwapReads/issues/4111) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🗣 Commented on [#2046](https://github.com/ayush-that/FinVeda/issues/2046#issuecomment-2440060631) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 💪 Opened PR [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-5. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440042109) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+1. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440131003) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+2. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440069649) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+3. ❗ Opened issue [#4111](https://github.com/anuragverma108/SwapReads/issues/4111) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+4. 🗣 Commented on [#2046](https://github.com/ayush-that/FinVeda/issues/2046#issuecomment-2440060631) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+5. 💪 Opened PR [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
   <!--END_SECTION:activity--> 
 </details> 
 
