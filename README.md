@@ -181,8 +181,8 @@
         <td>
           <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
             <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
-            <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
-            <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
+            <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="120px" height="120px" />
+            <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="120px" height="120px" /> -->
           </div>
         </td>
       </tr>
