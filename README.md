@@ -1,3 +1,6 @@
+<!-- Added Header Wave animation -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rajdeepchakraborty-rc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -257,3 +260,7 @@
   </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
+
+
+<!-- Added Footer Wave animation -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
