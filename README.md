@@ -44,6 +44,8 @@
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I am currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
+  🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
+  💡 Hobbies: Outside tech, I enjoy Gardening 🌱 and Volleyball 🏐
 </div>
 
 <br><br><br><br><br><br>
