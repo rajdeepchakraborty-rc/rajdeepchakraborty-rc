@@ -39,7 +39,7 @@
 
 <!-- Added About Me Section and GIF -->
 <div>
-  👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="350" height= "200" /><br>
+  👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="380" height= "180" /><br>
   🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I am currently learning <strong>Web Development</strong><br>
