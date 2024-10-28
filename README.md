@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440699222) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-2. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440696095) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-3. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440657721) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440131003) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-5. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440069649) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+1. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440754064) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+2. 🗣 Commented on [#105](https://github.com/subhadipbhowmik/bio-branch/issues/105#issuecomment-2440748267) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+3. 🔒 Closed issue [#105](https://github.com/subhadipbhowmik/bio-branch/issues/105) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+4. 🗣 Commented on [#214](https://github.com/subhadipbhowmik/bio-branch/pull/214#issuecomment-2440741251) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+5. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440725715) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
   <!--END_SECTION:activity--> 
 </details> 
 
