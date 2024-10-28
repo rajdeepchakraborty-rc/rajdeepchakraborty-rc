@@ -102,11 +102,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2441059044) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-2. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2441046997) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-3. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440781448) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2440754064) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-5. 🗣 Commented on [#105](https://github.com/subhadipbhowmik/bio-branch/issues/105#issuecomment-2440748267) in [subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+1. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441221799) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+2. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441217250) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+3. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441202621) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+4. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2441188616) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+5. 💪 Opened PR [#2298](https://github.com/ayush-that/FinVeda/pull/2298) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
   <!--END_SECTION:activity--> 
 </details> 
 
