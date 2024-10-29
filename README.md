@@ -39,14 +39,16 @@
 
 <!-- Added About Me Section and GIF -->
 <div>
-  👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="300" /><br>
+  👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="380" height= "180" /><br>
   🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I am currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
+  🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
+  💡 Hobbies: Outside tech, I enjoy Gardening 🌱 and Volleyball 🏐
 </div>
 
-<br><br><br><br><br><br>
+<br>
 
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -167,11 +169,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441221799) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-2. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441217250) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-3. 🗣 Commented on [#2298](https://github.com/ayush-that/FinVeda/pull/2298#issuecomment-2441202621) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-4. 🗣 Commented on [#2204](https://github.com/ayush-that/FinVeda/issues/2204#issuecomment-2441188616) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
-5. 💪 Opened PR [#2298](https://github.com/ayush-that/FinVeda/pull/2298) in [ayush-that/FinVeda](https://github.com/ayush-that/FinVeda)
+1. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2443046187) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+2. 🗣 Commented on [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957#issuecomment-2443042692) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+3. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442363539) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+4. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442337273) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+5. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442328704) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
   <!--END_SECTION:activity--> 
 </details> 
 
@@ -223,7 +225,7 @@
           <strong>Leaderboard Achievement Badges</strong><br>
         </td>
         <td>
-          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rajdeepchakraborty-rc">
             <img title="Postman-Challenge" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
             <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
             <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -241,10 +243,16 @@
           <strong>Side Quest Achievement Badges</strong><br>
         </td>
         <td>
-          <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+          <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+            <a href="/Assets/GSSoC_Badges/Git Explorer.jpeg">
             <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
-            <!-- <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
-            <!-- <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> -->
+            </a>
+            <a href="/Assets/GSSoC_Badges/Pull Expert.jpeg">
+            <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="120px" height="120px" />
+            </a>
+            <!-- <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+            <img title="Code Luminary(50 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="120px" height="120px" />
+            </a> -->
           </div>
         </td>
       </tr>
