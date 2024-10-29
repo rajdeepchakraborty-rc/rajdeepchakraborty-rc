@@ -107,11 +107,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2443046187) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-2. 🗣 Commented on [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957#issuecomment-2443042692) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-3. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442363539) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-4. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442337273) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-5. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442328704) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+1. 🗣 Commented on [#1393](https://github.com/AlgoGenesis/C/pull/1393#issuecomment-2444083698) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1393](https://github.com/AlgoGenesis/C/pull/1393#issuecomment-2444082916) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2443046187) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+4. 🗣 Commented on [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957#issuecomment-2443042692) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+5. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442363539) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
   <!--END_SECTION:activity--> 
 </details> 
 
