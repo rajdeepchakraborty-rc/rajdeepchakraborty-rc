@@ -107,11 +107,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#270](https://github.com/multiverseweb/CodeIt/issues/270) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-2. ❗ Opened issue [#193](https://github.com/vansh-codes/ChaosWeb/issues/193) in [vansh-codes/ChaosWeb](https://github.com/vansh-codes/ChaosWeb)
-3. ❗ Opened issue [#1031](https://github.com/mdazfar2/Ezyshop/issues/1031) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-4. 🗣 Commented on [#175](https://github.com/yuvrajsinghgmx/ShopSmart/issues/175#issuecomment-2444778879) in [yuvrajsinghgmx/ShopSmart](https://github.com/yuvrajsinghgmx/ShopSmart)
-5. ❗ Opened issue [#1431](https://github.com/AlgoGenesis/C/issues/1431) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 🗣 Commented on [#1616](https://github.com/ajay-dhangar/algo/issues/1616#issuecomment-2445153246) in [ajay-dhangar/algo](https://github.com/ajay-dhangar/algo)
+2. 🗣 Commented on [#1616](https://github.com/ajay-dhangar/algo/issues/1616#issuecomment-2445146214) in [ajay-dhangar/algo](https://github.com/ajay-dhangar/algo)
+3. ❗ Opened issue [#1616](https://github.com/ajay-dhangar/algo/issues/1616) in [ajay-dhangar/algo](https://github.com/ajay-dhangar/algo)
+4. ❗ Opened issue [#936](https://github.com/GarimaSingh0109/Resum-Resume/issues/936) in [GarimaSingh0109/Resum-Resume](https://github.com/GarimaSingh0109/Resum-Resume)
+5. ❗ Opened issue [#270](https://github.com/multiverseweb/CodeIt/issues/270) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
   <!--END_SECTION:activity--> 
 </details> 
 
