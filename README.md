@@ -107,11 +107,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444435638) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444430339) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444192135) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. ❗ Opened issue [#1416](https://github.com/AlgoGenesis/C/issues/1416) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#1393](https://github.com/AlgoGenesis/C/pull/1393#issuecomment-2444083698) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. ❗ Opened issue [#1431](https://github.com/AlgoGenesis/C/issues/1431) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444435638) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444430339) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1416](https://github.com/AlgoGenesis/C/issues/1416#issuecomment-2444192135) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. ❗ Opened issue [#1416](https://github.com/AlgoGenesis/C/issues/1416) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
 </details> 
 
