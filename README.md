@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/vansh-codes/Gityzer/pull/73#issuecomment-2450015723) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-2. 🎉 Merged PR [#6](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/6) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 💪 Opened PR [#6](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/6) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-4. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449825337) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449806915) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+1. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2450239599) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2450231198) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2450229766) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2450215319) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#73](https://github.com/vansh-codes/Gityzer/pull/73#issuecomment-2450015723) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
