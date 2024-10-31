@@ -107,11 +107,11 @@
   # Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449327776) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-2. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449325168) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-3. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449321089) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-4. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449237435) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449225229) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+1. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2449559435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 💪 Opened PR [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449327776) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+4. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449325168) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449321089) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
   <!--END_SECTION:activity--> 
 </details> 
 
