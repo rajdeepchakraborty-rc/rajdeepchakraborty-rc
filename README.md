@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2449559435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-2. 💪 Opened PR [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-3. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449327776) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-4. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449325168) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449321089) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+1. 🗣 Commented on [#73](https://github.com/vansh-codes/Gityzer/pull/73#issuecomment-2449705689) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+2. 💪 Opened PR [#73](https://github.com/vansh-codes/Gityzer/pull/73) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+3. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2449559435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 💪 Opened PR [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449327776) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
