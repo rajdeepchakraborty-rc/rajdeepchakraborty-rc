@@ -94,7 +94,7 @@
 <details>	
   <summary><b>📚 Recent Projects & Activity</b></summary><br>
 
-  # Projects
+  # 📂 Projects 
 
   ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
   <!--
@@ -104,7 +104,7 @@
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
   -->
 
-  # Activity
+  # ⚡ Activity
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1048](https://github.com/mdazfar2/Ezyshop/pull/1048#issuecomment-2449559435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
@@ -114,7 +114,7 @@
 5. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2449321089) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
   <!--END_SECTION:activity--> 
   
-  # Articles/Blogs
+  # 📝 Articles/ ✍️ Blogs
 
   ✍️ [My First Open-Source Adventure: The Hacktoberfest Experience](https://dev.to/rajdeepchakraborty/my-first-open-source-adventure-the-hacktoberfest-experience-4o6j)<br>
   <!--
