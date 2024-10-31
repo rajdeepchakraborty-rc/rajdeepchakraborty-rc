@@ -42,7 +42,7 @@
   👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="380" height= "180" /><br>
   🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
-  🌱 I am currently learning <strong>Web Development</strong><br>
+  📚 I am currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
   🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
   💡 Hobbies: Outside tech, I enjoy Gardening 🌱 and Volleyball 🏐
