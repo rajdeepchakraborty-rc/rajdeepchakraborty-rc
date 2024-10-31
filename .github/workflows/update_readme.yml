@@ -1,17 +1,30 @@
+# GitHub Action for Updating README file with Recent Activity(Issue/PR/Conversations).
 name: Update README
+
+# Controls when the action will run.
 on:
   schedule:
+      # every 30 minutes
     - cron: "*/30 * * * *"
+
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
     name: Update this repo's README with recent GitHub activity
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    # Permission to write in repository
     permissions:
       contents: write
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
+      
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
