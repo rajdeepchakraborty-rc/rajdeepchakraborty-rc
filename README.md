@@ -152,6 +152,7 @@
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed with a total of <strong>33 Accepted PRs</strong></li>
           <li>Contributed to multiple open-source projects and resolved code conflicts.</li>
           <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
