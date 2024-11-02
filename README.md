@@ -42,7 +42,7 @@
   👨🏻‍💻 About me: Passionate CSE Undergrad<img align="right" src="./Assets/Coder animation.webp" alt="Profile Image" width="380" height= "180" /><br>
   🎓 <strong>Sophomore</strong>: BTech in Computer Science and Engineering (CSE)<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
-  🌱 I am currently learning <strong>Web Development</strong><br>
+  📚 I am currently learning <strong>Web Development</strong><br>
   🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
   🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
   💡 Hobbies: Outside tech, I enjoy Gardening 🌱 and Volleyball 🏐
@@ -156,7 +156,7 @@
 <details>	
   <summary><b>📚 Recent Projects & Activity</b></summary><br>
 
-  # Projects
+  # 📂 Projects 
 
   ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
   <!--
@@ -166,15 +166,23 @@
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
   -->
 
-  # Activity
+  # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2443046187) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-2. 🗣 Commented on [#957](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/957#issuecomment-2443042692) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
-3. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442363539) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-4. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442337273) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
-5. 🗣 Commented on [#614](https://github.com/vishal02527/My-Strength-Shree-Krishna/issues/614#issuecomment-2442328704) in [vishal02527/My-Strength-Shree-Krishna](https://github.com/vishal02527/My-Strength-Shree-Krishna)
+1. 🗣 Commented on [#291](https://github.com/multiverseweb/CodeIt/pull/291#issuecomment-2453112831) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+2. 🎉 Merged PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 💪 Opened PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+4. 💪 Opened PR [#1586](https://github.com/AlgoGenesis/C/pull/1586) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#4468](https://github.com/anuragverma108/SwapReads/issues/4468#issuecomment-2453060951) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
   <!--END_SECTION:activity--> 
+  
+  # 📝 Articles/ ✍️ Blogs
+
+  ✍️ [My First Open-Source Adventure: The Hacktoberfest Experience](https://dev.to/rajdeepchakraborty/my-first-open-source-adventure-the-hacktoberfest-experience-4o6j)<br>
+  <!--
+  📝 Sample Article<br>
+  ✍️ Sample Blog<br>
+  -->
 </details> 
 
 <details>
@@ -187,7 +195,8 @@
     </tr>
     <tr>
       <td>
-        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br><img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br>
+        <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="100%">
       </td>
       <td>
         <ul>
@@ -199,11 +208,13 @@
     </tr>
     <tr>
       <td>
-        <strong>Hacktoberfest 24</strong><br><img src="https://cdn.discordapp.com/attachments/657543125190967316/1294560786114674748/Screenshot_2024-10-12_122347.png?ex=670b752f&is=670a23af&hm=26ddd7f41740b8b19ee4985e7568b3892091384b3b85e7165770a4b10f4d1050&" alt="Hacktoberfest 2024" width="80%">
+        <strong>Hacktoberfest 24</strong><br>
+        <img src="/Assets/Hacktoberfest2024_Banner.png" alt="Hacktoberfest 2024" width="100%">
       </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed with a total of <strong>33 Accepted PRs</strong></li>
           <li>Contributed to multiple open-source projects and resolved code conflicts.</li>
           <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
@@ -297,6 +308,14 @@
   </td>
   </tr>
   </table>
+
+   ## 🔝 Top Contributed Repo :
+  <div align="center">
+
+  ![](https://github-contributor-stats.vercel.app/api?username=rajdeepchakraborty-rc&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+  </div>
+
 
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=rajdeepchakraborty-rc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
