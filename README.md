@@ -134,7 +134,7 @@
     <tr>
       <td>
         <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br>
-        <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+        <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="100%">
       </td>
       <td>
         <ul>
@@ -147,7 +147,7 @@
     <tr>
       <td>
         <strong>Hacktoberfest 24</strong><br>
-        <img src="/Assets/Hacktoberfest2024_Banner.png" alt="Hacktoberfest 2024" width="80%">
+        <img src="/Assets/Hacktoberfest2024_Banner.png" alt="Hacktoberfest 2024" width="100%">
       </td>
       <td>
         <ul>
