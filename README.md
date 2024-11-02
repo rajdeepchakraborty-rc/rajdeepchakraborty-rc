@@ -92,17 +92,7 @@
 
 <!--- Recent Activity Section -->
 <details>	
-  <summary><b>📚 Recent Projects & Activity</b></summary><br>
-
-  # 📂 Projects 
-
-  ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
-  <!--
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-  -->
+  <summary><b>📚 Recent Activity & Projects</b></summary><br>
 
   # ⚡ Activity
 
@@ -121,6 +111,81 @@
   📝 Sample Article<br>
   ✍️ Sample Blog<br>
   -->
+
+  # 📂 Projects 
+
+  ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
+  <!--
+  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
+  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
+  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
+  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
+  -->
+
+  # 📂 Recent Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Mikasha AI</h3>
+      <p align="center">
+        <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Mikasha+AI" width="100%" alt="Mikasha AI"/>
+        </a>
+        <p align="center">
+          An innovative AI project showcasing machine learning capabilities.
+          <br><br>
+          <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a> 
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> React, TensorFlow.js, Node.js</p>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Bria Salon Website</h3>
+      <p align="center">
+        <a href="https://github.com/tarunkumar2005/bria-salon" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Bria+Salon" width="100%" alt="Bria Salon"/>
+        </a>
+        <p align="center">
+          A sleek, responsive website for a modern salon.
+          <br><br>
+          <a href="https://github.com/tarunkumar2005/bria-salon" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> Next.js, Tailwind CSS, Framer Motion</p>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Senpai Store</h3>
+      <p align="center">
+        <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Senpai+Store" width="100%" alt="Senpai Store"/>
+        </a>
+        <p align="center">
+          An e-commerce platform with a unique anime-inspired twist.
+          <br><br>
+          <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </details> 
 
 <details>
