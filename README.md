@@ -104,6 +104,8 @@
 5. ❗ Opened issue [#4468](https://github.com/anuragverma108/SwapReads/issues/4468) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
   <!--END_SECTION:activity--> 
   
+  <br>
+
   # 📝 Articles/ ✍️ Blogs
 
   ✍️ [My First Open-Source Adventure: The Hacktoberfest Experience](https://dev.to/rajdeepchakraborty/my-first-open-source-adventure-the-hacktoberfest-experience-4o6j)<br>
@@ -111,6 +113,8 @@
   📝 Sample Article<br>
   ✍️ Sample Blog<br>
   -->
+
+  <br>
 
   # 📂 Projects 
 
