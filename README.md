@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/multiverseweb/CodeIt/pull/291#issuecomment-2452899384) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-2. 💪 Opened PR [#291](https://github.com/multiverseweb/CodeIt/pull/291) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-3. 🗣 Commented on [#270](https://github.com/multiverseweb/CodeIt/issues/270#issuecomment-2451643743) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-4. 🗣 Commented on [#270](https://github.com/multiverseweb/CodeIt/issues/270#issuecomment-2451629766) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-5. ❗ Opened issue [#1552](https://github.com/AlgoGenesis/C/issues/1552) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/Timeline_animate/pull/1) in [rajdeepchakraborty-rc/Timeline_animate](https://github.com/rajdeepchakraborty-rc/Timeline_animate)
+2. 💪 Opened PR [#1](https://github.com/rajdeepchakraborty-rc/Timeline_animate/pull/1) in [rajdeepchakraborty-rc/Timeline_animate](https://github.com/rajdeepchakraborty-rc/Timeline_animate)
+3. 🗣 Commented on [#291](https://github.com/multiverseweb/CodeIt/pull/291#issuecomment-2452899384) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+4. 💪 Opened PR [#291](https://github.com/multiverseweb/CodeIt/pull/291) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+5. 🗣 Commented on [#270](https://github.com/multiverseweb/CodeIt/issues/270#issuecomment-2451643743) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
