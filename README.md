@@ -133,7 +133,8 @@
     </tr>
     <tr>
       <td>
-        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br><img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br>
+        <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
       </td>
       <td>
         <ul>
@@ -145,7 +146,8 @@
     </tr>
     <tr>
       <td>
-        <strong>Hacktoberfest 24</strong><br><img src="https://cdn.discordapp.com/attachments/657543125190967316/1294560786114674748/Screenshot_2024-10-12_122347.png?ex=670b752f&is=670a23af&hm=26ddd7f41740b8b19ee4985e7568b3892091384b3b85e7165770a4b10f4d1050&" alt="Hacktoberfest 2024" width="80%">
+        <strong>Hacktoberfest 24</strong><br>
+        <img src="/Assets/Hacktoberfest2024_Banner.png" alt="Hacktoberfest 2024" width="80%">
       </td>
       <td>
         <ul>
