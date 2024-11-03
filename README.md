@@ -165,7 +165,7 @@
             <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
+        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS, jQuery</p>
       </p>
     </td>
     <!-- <td width="33%" valign="top">
