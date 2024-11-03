@@ -133,7 +133,7 @@
     <td width="33%" valign="top">
       <h3 align="center">Phantom Hacks</h3>
       <p align="center">
-        <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
+        <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
           <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="100%" alt="Phantom_Hacks"/>
         </a>
         <p align="center">
