@@ -134,7 +134,7 @@
       <h3 align="center">Phantom Hacks</h3>
       <p align="center">
         <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
-          <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="300" height="200" alt="Phantom_Hacks"/>
+          <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="100%" alt="Phantom_Hacks"/>
         </a>
         <p align="center">
           24 Hours Front-End, Halloween-themed, Virtual Hackathon.
@@ -168,7 +168,7 @@
         <p align="center"><strong>Tech Stack:</strong> Next.js, Tailwind CSS, Framer Motion</p>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <!-- <td width="33%" valign="top">
       <h3 align="center">Senpai Store</h3>
       <p align="center">
         <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
@@ -186,7 +186,7 @@
         </p>
         <p align="center"><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe</p>
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
