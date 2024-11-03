@@ -152,13 +152,13 @@
     <td width="33%" valign="top">
       <h3 align="center">MCU Villain Timeline</h3>
       <p align="center">
-        <a href="https://github.com/tarunkumar2005/bria-salon" target="_blank">
+        <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
           <img src="/Assets/Projects_Thumbnails/MCU_VillainTimeline.png" width="100%" alt="MCU Villain Timeline"/>
         </a>
         <p align="center">
           A sleek, responsive timeline animation idea.
           <br><br>
-          <a href="https://github.com/rajdeepchakraborty-rc/Timeline_animate" target="_blank">
+          <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
           </a>
           <a href="#" target="_blank">
