@@ -97,7 +97,7 @@
   # 📂 Projects 
 
   ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
-  ✨ [MCU Villain Timeline - A sleek, responsive timeline animation potraying the MCU Villains Timeline.](https://github.com/rajdeepchakraborty-rc/Timeline_animate)<br>
+  ✨ [MCU Villain Timeline - A sleek, responsive timeline animation showcasing the MCU Villains.](https://github.com/rajdeepchakraborty-rc/Timeline_animate)<br>
   <!-- ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br>  -->
   <!-- ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br> -->
   <!-- ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br> -->
