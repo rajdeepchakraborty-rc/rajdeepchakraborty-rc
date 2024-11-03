@@ -116,9 +116,9 @@
 
   <br>
 
-  # 📂 Projects 
+  <!-- # 📂 Projects  -->
 
-  ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
+  <!-- ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br> -->
   <!--
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
@@ -126,27 +126,27 @@
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
   -->
 
-  # 📂 Recent Projects
+  # 📂 Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Mikasha AI</h3>
+      <h3 align="center">Phantom Hacks</h3>
       <p align="center">
         <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
           <img src="https://via.placeholder.com/300x200?text=Mikasha+AI" width="100%" alt="Mikasha AI"/>
         </a>
         <p align="center">
-          An innovative AI project showcasing machine learning capabilities.
+          24 Hours Front-End, Halloween-themed, Virtual Hackathon.
           <br><br>
-          <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
+          <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
           </a> 
-          <a href="#" target="_blank">
+          <a href="https://phantom-hacks-ccpz.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p align="center"><strong>Tech Stack:</strong> React, TensorFlow.js, Node.js</p>
+        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
       </p>
     </td>
     <td width="33%" valign="top">
