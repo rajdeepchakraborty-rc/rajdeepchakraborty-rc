@@ -134,7 +134,7 @@
       <h3 align="center">Phantom Hacks</h3>
       <p align="center">
         <a href="https://github.com/tarunkumar2005/Mikasha-AI" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Mikasha+AI" width="100%" alt="Mikasha AI"/>
+          <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="300" height="200" alt="Phantom_Hacks"/>
         </a>
         <p align="center">
           24 Hours Front-End, Halloween-themed, Virtual Hackathon.
