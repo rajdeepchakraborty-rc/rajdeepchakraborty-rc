@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#600](https://github.com/Magic-Academy/.github/issues/600) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
-2. ❗ Opened issue [#126](https://github.com/64-shades/join/issues/126) in [64-shades/join](https://github.com/64-shades/join)
-3. ❗ Opened issue [#162](https://github.com/slurpcode/join-our-team/issues/162) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
-4. ❗ Opened issue [#2](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/issues/2) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
-5. 🗣 Commented on [#367](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/367#issuecomment-2453468755) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+1. 🗣 Commented on [#367](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/367#issuecomment-2453505564) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+2. 🔒 Closed issue [#600](https://github.com/Magic-Academy/.github/issues/600) in [Magic-Academy/.github](https://github.com/Magic-Academy/.github)
+3. ❗ Opened issue [#126](https://github.com/64-shades/join/issues/126) in [64-shades/join](https://github.com/64-shades/join)
+4. ❗ Opened issue [#162](https://github.com/slurpcode/join-our-team/issues/162) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
+5. ❗ Opened issue [#2](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/issues/2) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
