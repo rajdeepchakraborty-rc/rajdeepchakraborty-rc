@@ -97,11 +97,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1586](https://github.com/AlgoGenesis/C/pull/1586) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#4468](https://github.com/anuragverma108/SwapReads/issues/4468#issuecomment-2453060951) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-3. 🗣 Commented on [#1552](https://github.com/AlgoGenesis/C/issues/1552#issuecomment-2453057205) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. 🗣 Commented on [#4468](https://github.com/anuragverma108/SwapReads/issues/4468#issuecomment-2453031451) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
-5. ❗ Opened issue [#4468](https://github.com/anuragverma108/SwapReads/issues/4468) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#250](https://github.com/aslams2020/Stark-Tech-Portfolio/issues/250#issuecomment-2453307676) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+2. 🗣 Commented on [#291](https://github.com/multiverseweb/CodeIt/pull/291#issuecomment-2453112831) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+3. 🎉 Merged PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+4. 💪 Opened PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+5. 💪 Opened PR [#1586](https://github.com/AlgoGenesis/C/pull/1586) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   <br>
@@ -202,7 +202,8 @@
     </tr>
     <tr>
       <td>
-        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br><img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+        <strong>GirlScript Summer of Code Extended 2024 (GSSoC Extd '24)</strong><br>
+        <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="100%">
       </td>
       <td>
         <ul>
@@ -214,11 +215,13 @@
     </tr>
     <tr>
       <td>
-        <strong>Hacktoberfest 24</strong><br><img src="https://cdn.discordapp.com/attachments/657543125190967316/1294560786114674748/Screenshot_2024-10-12_122347.png?ex=670b752f&is=670a23af&hm=26ddd7f41740b8b19ee4985e7568b3892091384b3b85e7165770a4b10f4d1050&" alt="Hacktoberfest 2024" width="80%">
+        <strong>Hacktoberfest 24</strong><br>
+        <img src="/Assets/Hacktoberfest2024_Banner.png" alt="Hacktoberfest 2024" width="100%">
       </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed with a total of <strong>33 Accepted PRs</strong></li>
           <li>Contributed to multiple open-source projects and resolved code conflicts.</li>
           <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
@@ -247,9 +250,9 @@
             <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
             <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
             <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-            <!-- <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-            <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-            <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+            <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+            <!-- <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
+            <!-- <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
           </div>
         </td>
       </tr>
