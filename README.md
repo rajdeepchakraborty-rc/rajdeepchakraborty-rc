@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1586](https://github.com/AlgoGenesis/C/pull/1586#issuecomment-2453982636) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#1552](https://github.com/AlgoGenesis/C/issues/1552#issuecomment-2453904809) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. 🗣 Commented on [#370](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/370#issuecomment-2453885725) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2453878248) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-5. 🗣 Commented on [#991](https://github.com/mdazfar2/Ezyshop/issues/991#issuecomment-2453874277) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+1. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454195683) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454192602) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#1586](https://github.com/AlgoGenesis/C/pull/1586#issuecomment-2453982636) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1552](https://github.com/AlgoGenesis/C/issues/1552#issuecomment-2453904809) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#370](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/370#issuecomment-2453885725) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
