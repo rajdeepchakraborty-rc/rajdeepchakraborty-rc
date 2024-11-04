@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#991](https://github.com/mdazfar2/Ezyshop/issues/991#issuecomment-2453565320) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-2. ❗ Opened issue [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-3. ❗ Opened issue [#277](https://github.com/multiverseweb/Dataverse/issues/277) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
-4. 🗣 Commented on [#370](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/370#issuecomment-2453543063) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
-5. 💪 Opened PR [#370](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/370) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+1. 🗣 Commented on [#370](https://github.com/aslams2020/Stark-Tech-Portfolio/pull/370#issuecomment-2453885725) in [aslams2020/Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio)
+2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2453878248) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#991](https://github.com/mdazfar2/Ezyshop/issues/991#issuecomment-2453874277) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2453867639) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#991](https://github.com/mdazfar2/Ezyshop/issues/991#issuecomment-2453565320) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
