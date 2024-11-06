@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454730435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454195683) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-3. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454192602) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-4. 🗣 Commented on [#1586](https://github.com/AlgoGenesis/C/pull/1586#issuecomment-2453982636) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#1552](https://github.com/AlgoGenesis/C/issues/1552#issuecomment-2453904809) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. ❗ Opened issue [#1678](https://github.com/AlgoGenesis/C/issues/1678) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454730435) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454195683) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2454192602) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#1586](https://github.com/AlgoGenesis/C/pull/1586#issuecomment-2453982636) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
