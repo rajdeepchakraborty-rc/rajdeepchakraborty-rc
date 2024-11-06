@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1678](https://github.com/AlgoGenesis/C/issues/1678#issuecomment-2459975742) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#277](https://github.com/multiverseweb/Dataverse/issues/277#issuecomment-2459925285) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
-3. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2459895245) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-4. 💪 Opened PR [#303](https://github.com/multiverseweb/CodeIt/pull/303) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-5. 🗣 Commented on [#313](https://github.com/multiverseweb/Dataverse/pull/313#issuecomment-2459832557) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
+1. 🗣 Commented on [#304](https://github.com/GSSoC24/Hack-Web3Conf/pull/304#issuecomment-2460085066) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
+2. 🗣 Commented on [#304](https://github.com/GSSoC24/Hack-Web3Conf/pull/304#issuecomment-2460075606) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
+3. 🗣 Commented on [#1678](https://github.com/AlgoGenesis/C/issues/1678#issuecomment-2459975742) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#277](https://github.com/multiverseweb/Dataverse/issues/277#issuecomment-2459925285) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
+5. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2459895245) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
