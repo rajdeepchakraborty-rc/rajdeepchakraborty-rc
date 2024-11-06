@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460513722) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460491375) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-3. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460321783) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460320886) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-5. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460308340) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+1. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2460553017) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+2. 🗣 Commented on [#73](https://github.com/vansh-codes/Gityzer/pull/73#issuecomment-2460549584) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+3. ❗ Opened issue [#83](https://github.com/vansh-codes/Gityzer/issues/83) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460513722) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460491375) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
