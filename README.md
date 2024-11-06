@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460296625) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-2. 🗣 Commented on [#304](https://github.com/GSSoC24/Hack-Web3Conf/pull/304#issuecomment-2460085066) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
-3. 🗣 Commented on [#304](https://github.com/GSSoC24/Hack-Web3Conf/pull/304#issuecomment-2460075606) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
-4. 🗣 Commented on [#1678](https://github.com/AlgoGenesis/C/issues/1678#issuecomment-2459975742) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#277](https://github.com/multiverseweb/Dataverse/issues/277#issuecomment-2459925285) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
+1. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460321783) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460320886) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+3. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460308340) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 🗣 Commented on [#1059](https://github.com/mdazfar2/Ezyshop/issues/1059#issuecomment-2460296625) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#304](https://github.com/GSSoC24/Hack-Web3Conf/pull/304#issuecomment-2460085066) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
