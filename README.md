@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2461490139) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-2. 🗣 Commented on [#313](https://github.com/multiverseweb/Dataverse/pull/313#issuecomment-2461427920) in [multiverseweb/Dataverse](https://github.com/multiverseweb/Dataverse)
-3. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2460601774) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-4. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2460553017) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-5. 🗣 Commented on [#73](https://github.com/vansh-codes/Gityzer/pull/73#issuecomment-2460549584) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+1. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2461958724) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+2. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2461946669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. ❗ Opened issue [#1724](https://github.com/AlgoGenesis/C/issues/1724) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2461933054) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 💪 Opened PR [#1723](https://github.com/AlgoGenesis/C/pull/1723) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
