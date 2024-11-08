@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2461958724) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-2. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2461946669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. ❗ Opened issue [#1724](https://github.com/AlgoGenesis/C/issues/1724) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2461933054) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 💪 Opened PR [#1723](https://github.com/AlgoGenesis/C/pull/1723) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 💪 Opened PR [#1102](https://github.com/mdazfar2/Ezyshop/pull/1102) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+2. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2461958724) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+3. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2461946669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. ❗ Opened issue [#1724](https://github.com/AlgoGenesis/C/issues/1724) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2461933054) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
