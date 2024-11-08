@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1744](https://github.com/AlgoGenesis/C/issues/1744) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2463951443) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2463925468) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2463915021) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2463847886) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+1. 🗣 Commented on [#1744](https://github.com/AlgoGenesis/C/issues/1744#issuecomment-2463980468) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. ❗ Opened issue [#1744](https://github.com/AlgoGenesis/C/issues/1744) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2463951443) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2463925468) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2463915021) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
