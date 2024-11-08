@@ -106,11 +106,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2463847886) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-2. 💪 Opened PR [#1102](https://github.com/mdazfar2/Ezyshop/pull/1102) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-3. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2461958724) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-4. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2461946669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. ❗ Opened issue [#1724](https://github.com/AlgoGenesis/C/issues/1724) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 🗣 Commented on [#1724](https://github.com/AlgoGenesis/C/issues/1724#issuecomment-2463925468) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1723](https://github.com/AlgoGenesis/C/pull/1723#issuecomment-2463915021) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#303](https://github.com/multiverseweb/CodeIt/pull/303#issuecomment-2463847886) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+4. 💪 Opened PR [#1102](https://github.com/mdazfar2/Ezyshop/pull/1102) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+5. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2461958724) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
