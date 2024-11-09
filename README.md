@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2466210217) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-2. ❗ Opened issue [#1804](https://github.com/AlgoGenesis/C/issues/1804) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465637669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465636428) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#1744](https://github.com/AlgoGenesis/C/issues/1744#issuecomment-2465589401) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 🗣 Commented on [#1454](https://github.com/mdazfar2/HelpOps-Hub/issues/1454#issuecomment-2466225362) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+2. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2466210217) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
+3. ❗ Opened issue [#1804](https://github.com/AlgoGenesis/C/issues/1804) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465637669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465636428) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
