@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1744](https://github.com/AlgoGenesis/C/issues/1744#issuecomment-2465589401) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#1780](https://github.com/AlgoGenesis/C/pull/1780#issuecomment-2465545515) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. ❗ Opened issue [#1781](https://github.com/AlgoGenesis/C/issues/1781) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-4. 💪 Opened PR [#1780](https://github.com/AlgoGenesis/C/pull/1780) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#1454](https://github.com/mdazfar2/HelpOps-Hub/issues/1454#issuecomment-2465096813) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+1. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465637669) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1781](https://github.com/AlgoGenesis/C/issues/1781#issuecomment-2465636428) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#1744](https://github.com/AlgoGenesis/C/issues/1744#issuecomment-2465589401) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 🗣 Commented on [#1780](https://github.com/AlgoGenesis/C/pull/1780#issuecomment-2465545515) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+5. ❗ Opened issue [#1781](https://github.com/AlgoGenesis/C/issues/1781) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
