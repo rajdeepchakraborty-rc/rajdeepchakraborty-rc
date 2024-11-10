@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466721359) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-2. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466717019) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-3. 💪 Opened PR [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-4. 🗣 Commented on [#1458](https://github.com/mdazfar2/HelpOps-Hub/pull/1458#issuecomment-2466653439) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
-5. 🗣 Commented on [#1458](https://github.com/mdazfar2/HelpOps-Hub/pull/1458#issuecomment-2466639255) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+1. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466735515) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+2. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466733848) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+3. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466721359) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+4. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466717019) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+5. 💪 Opened PR [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
