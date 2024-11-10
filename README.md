@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1847](https://github.com/AlgoGenesis/C/pull/1847) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 💪 Opened PR [#1458](https://github.com/mdazfar2/HelpOps-Hub/pull/1458) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
-3. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2466402444) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
-4. 🗣 Commented on [#1454](https://github.com/mdazfar2/HelpOps-Hub/issues/1454#issuecomment-2466243309) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
-5. 🗣 Commented on [#1454](https://github.com/mdazfar2/HelpOps-Hub/issues/1454#issuecomment-2466225362) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+1. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466623477) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466623200) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 💪 Opened PR [#1847](https://github.com/AlgoGenesis/C/pull/1847) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+4. 💪 Opened PR [#1458](https://github.com/mdazfar2/HelpOps-Hub/pull/1458) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+5. 🗣 Commented on [#83](https://github.com/vansh-codes/Gityzer/issues/83#issuecomment-2466402444) in [vansh-codes/Gityzer](https://github.com/vansh-codes/Gityzer)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
