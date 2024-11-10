@@ -107,11 +107,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466771672) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466735515) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-3. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466733848) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-4. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466721359) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
-5. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466717019) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+1. 🗣 Commented on [#4](https://github.com/yuvrajsinghgmx/ShopSmart/issues/4#issuecomment-2466792638) in [yuvrajsinghgmx/ShopSmart](https://github.com/yuvrajsinghgmx/ShopSmart)
+2. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466771672) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466735515) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+4. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466733848) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
+5. 🗣 Commented on [#1567](https://github.com/sanjay-kv/Open-source-Practice/pull/1567#issuecomment-2466721359) in [sanjay-kv/Open-source-Practice](https://github.com/sanjay-kv/Open-source-Practice)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
