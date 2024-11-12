@@ -103,7 +103,7 @@
       <!-- <img title="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Logo"/> -->
       <!-- <img title="Hibernate" src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate Logo"/>      -->
       <!-- <img title="Ruby on Rails" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" alt="Ruby on Rails Logo" width="48" height="48"/> -->
-      <!-- <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/> -->
+      <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/>
       <!-- <img title="Lodash" src="https://brandeps.com/logo-download/L/Lodash-logo-vector-01.svg" alt="Lodash Logo" width="48" height="48"/> -->
     </div>
   </td>
