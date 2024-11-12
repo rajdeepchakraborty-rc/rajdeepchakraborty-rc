@@ -193,10 +193,10 @@
         </td>
         <td>
           <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-            <a href="/Assets/GSSoC_Badges/Git Explorer.jpeg">
+            <a href="/Assets/GSSoC2024Extd/Badges/Git Explorer.jpeg">
             <img title="Git Explorer(5 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
             </a>
-            <a href="/Assets/GSSoC_Badges/Pull Expert.jpeg">
+            <a href="/Assets/GSSoC2024Extd/Badges/Pull Expert.jpeg">
             <img title="Pull Expert(25 Merged PR)" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="120px" height="120px" />
             </a>
             <!-- <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
