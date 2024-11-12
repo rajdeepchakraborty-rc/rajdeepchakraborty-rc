@@ -32,8 +32,9 @@
   <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a>
   <!-- Add this later- -->
   <!-- <a href="https://recodehive.com/">Website</a> - -->
+  <!-- <a href="https://www.codedex.io/@RajChk">Codédex</a> - -->
   <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
-  <!-- <a href="https://topmate.io/rajdeep_chakraborty">Contact me</a>  -->
+  <!-- <a href="https://topmate.io/rajchk">Contact me</a>  -->
 </p>
 
 
@@ -159,21 +160,20 @@
   # 📂 Projects 
 
   ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
-  <!--
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-  -->
+  ✨ [MCU Villain Timeline - A sleek, responsive timeline animation showcasing the MCU Villains.](https://github.com/rajdeepchakraborty-rc/Timeline_animate)<br>
+  <!-- ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br>  -->
+  <!-- ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br> -->
+  <!-- ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br> -->
+ 
 
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/multiverseweb/CodeIt/pull/291#issuecomment-2453112831) in [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
-2. 🎉 Merged PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 💪 Opened PR [#7](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/7) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-4. 💪 Opened PR [#1586](https://github.com/AlgoGenesis/C/pull/1586) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-5. 🗣 Commented on [#4468](https://github.com/anuragverma108/SwapReads/issues/4468#issuecomment-2453060951) in [anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)
+1. 🗣 Commented on [#1873](https://github.com/AlgoGenesis/C/issues/1873#issuecomment-2469066365) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+2. ❗ Opened issue [#1873](https://github.com/AlgoGenesis/C/issues/1873) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+3. 🗣 Commented on [#1102](https://github.com/mdazfar2/Ezyshop/pull/1102#issuecomment-2466851563) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
+4. 🗣 Commented on [#4](https://github.com/yuvrajsinghgmx/ShopSmart/issues/4#issuecomment-2466792638) in [yuvrajsinghgmx/ShopSmart](https://github.com/yuvrajsinghgmx/ShopSmart)
+5. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466771672) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
@@ -237,15 +237,16 @@
         </td>
         <td>
           <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rajdeepchakraborty-rc">
-            <img title="Postman-Challenge" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+            <img title="Postman API Fundamentals Student Expert" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+            <img title="Web3Hack Challenge" src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
             <img title="Explorer Badge(60 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
             <img title="Adventurer Badge(140 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
             <img title="Trailblazer Badge(200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
             <img title="Summit Seeker Badge(300 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
             <img title="Champion Badge(500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-            <!-- <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-            <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-            <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+            <img title="Innovator Badge(1200 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+            <!-- <img title="Conqueror Badge(2500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
+            <!-- <img title="Legend Badge(5500 points)" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
           </div>
         </td>
       </tr>
