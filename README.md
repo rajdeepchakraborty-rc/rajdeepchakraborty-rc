@@ -123,8 +123,8 @@
       <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
       <!-- <img title="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL Logo"/> -->
       <!-- <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/> -->
-      <!-- <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/> -->
-      <!-- <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/> -->
+      <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/>
+      <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/>
       <!-- <img title="Database Management Systems" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/> -->
       <!-- <img title="REST API" src="https://d33wubrfki0l68.cloudfront.net/70f55b8fa4e75bc7489ea68f628a8a60781c6387/18999/static/rest-api-c2f25fbadba477948398d96acac29c08.png" alt="REST API Logo" width="48" height="48"/> -->
       <!-- <img title="Cloudinary" src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary Logo"/>  -->
