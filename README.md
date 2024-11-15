@@ -181,68 +181,67 @@
 
   # 📂 Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Phantom Hacks</h3>
-      <p align="center">
-        <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
-          <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="100%" alt="Phantom_Hacks"/>
-        </a>
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3 align="center">Phantom Hacks</h3>
         <p align="center">
-          24 Hours Front-End, Halloween-themed, Virtual Hackathon.
-          <br><br>
           <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
-          </a> 
-          <a href="https://phantom-hacks-ccpz.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
+            <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="100%" alt="Phantom_Hacks"/>
           </a>
+          <p align="center">
+            24 Hours Front-End, Halloween-themed, Virtual Hackathon.
+            <br><br>
+            <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+            </a> 
+            <a href="https://phantom-hacks-ccpz.onrender.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
+            </a>
+          </p>
+          <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
         </p>
-        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">MCU Villain Timeline</h3>
-      <p align="center">
-        <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
-          <img src="/Assets/Projects_Thumbnails/MCU_VillainTimeline.png" width="100%" alt="MCU Villain Timeline"/>
-        </a>
+      </td>
+      <td width="33%" valign="top">
+        <h3 align="center">MCU Villain Timeline</h3>
         <p align="center">
-          A sleek, responsive timeline animation idea.
-          <br><br>
           <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+            <img src="/Assets/Projects_Thumbnails/MCU_VillainTimeline.png" width="100%" alt="MCU Villain Timeline"/>
           </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
-          </a>
+          <p align="center">
+            A sleek, responsive timeline animation idea.
+            <br><br>
+            <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
+            </a>
+          </p>
+          <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS, jQuery</p>
         </p>
-        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS, jQuery</p>
-      </p>
-    </td>
-    <!-- <td width="33%" valign="top">
-      <h3 align="center">Senpai Store</h3>
-      <p align="center">
-        <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Senpai+Store" width="100%" alt="Senpai Store"/>
-        </a>
+      </td>
+      <!-- <td width="33%" valign="top">
+        <h3 align="center">Senpai Store</h3>
         <p align="center">
-          An e-commerce platform with a unique anime-inspired twist.
-          <br><br>
           <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+            <img src="https://via.placeholder.com/300x200?text=Senpai+Store" width="100%" alt="Senpai Store"/>
           </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
+          <p align="center">
+            An e-commerce platform with a unique anime-inspired twist.
+            <br><br>
+            <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+            </a>
+          </p>
+          <p align="center"><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe</p>
         </p>
-        <p align="center"><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe</p>
-      </p>
-    </td> -->
-  </tr>
-</table>
-
+      </td> -->
+    </tr>
+  </table>
 </details> 
 
 <details>
