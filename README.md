@@ -168,7 +168,7 @@
 5. 🔒 Closed issue [#68](https://github.com/Webaddicted91/Visieum2.0/issues/68) in [Webaddicted91/Visieum2.0](https://github.com/Webaddicted91/Visieum2.0)
   <!--END_SECTION:activity--> 
   
-  <br>
+  <!-- <br> -->
 
   # 📝 Articles/ ✍️ Blogs
 
@@ -178,7 +178,7 @@
   ✍️ Sample Blog<br>
   -->
 
-  <br>
+  <!-- <br> -->
 
   # 📂 Projects
 
