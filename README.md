@@ -151,20 +151,12 @@
   </tr>
 </table>
 
----
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!--- Recent Activity Section -->
 <details>	
-  <summary><b>📚 Recent Projects & Activity</b></summary><br>
-
-  # 📂 Projects 
-
-  ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br>
-  ✨ [MCU Villain Timeline - A sleek, responsive timeline animation showcasing the MCU Villains.](https://github.com/rajdeepchakraborty-rc/Timeline_animate)<br>
-  <!-- ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br>  -->
-  <!-- ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br> -->
-  <!-- ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br> -->
- 
+  <summary><b>📚 Recent Activity & Projects</b></summary><br>
 
   # ⚡ Activity
 
@@ -176,6 +168,8 @@
 5. 🔒 Closed issue [#68](https://github.com/Webaddicted91/Visieum2.0/issues/68) in [Webaddicted91/Visieum2.0](https://github.com/Webaddicted91/Visieum2.0)
   <!--END_SECTION:activity--> 
   
+  <br>
+
   # 📝 Articles/ ✍️ Blogs
 
   ✍️ [My First Open-Source Adventure: The Hacktoberfest Experience](https://dev.to/rajdeepchakraborty/my-first-open-source-adventure-the-hacktoberfest-experience-4o6j)<br>
@@ -183,6 +177,72 @@
   📝 Sample Article<br>
   ✍️ Sample Blog<br>
   -->
+
+  <br>
+
+  # 📂 Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Phantom Hacks</h3>
+      <p align="center">
+        <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
+          <img src="/Assets/Projects_Thumbnails/Phantom_Hacks.png" width="100%" alt="Phantom_Hacks"/>
+        </a>
+        <p align="center">
+          24 Hours Front-End, Halloween-themed, Virtual Hackathon.
+          <br><br>
+          <a href="https://github.com/rajdeepchakraborty-rc/Phantom_Hacks" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a> 
+          <a href="https://phantom-hacks-ccpz.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">MCU Villain Timeline</h3>
+      <p align="center">
+        <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
+          <img src="/Assets/Projects_Thumbnails/MCU_VillainTimeline.png" width="100%" alt="MCU Villain Timeline"/>
+        </a>
+        <p align="center">
+          A sleek, responsive timeline animation idea.
+          <br><br>
+          <a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a>
+          <a href="https://mcu-villains-timeline.onrender.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS, jQuery</p>
+      </p>
+    </td>
+    <!-- <td width="33%" valign="top">
+      <h3 align="center">Senpai Store</h3>
+      <p align="center">
+        <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Senpai+Store" width="100%" alt="Senpai Store"/>
+        </a>
+        <p align="center">
+          An e-commerce platform with a unique anime-inspired twist.
+          <br><br>
+          <a href="https://github.com/tarunkumar2005/senpai-store" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p align="center"><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe</p>
+      </p>
+    </td> -->
+  </tr>
+</table>
 </details> 
 
 <details>
