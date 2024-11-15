@@ -179,16 +179,6 @@
 
   <br>
 
-  <!-- # 📂 Projects  -->
-
-  <!-- ✨ [Phantom Hacks - 24 Hours Front-End, Halloween-themed Hackathon](https://github.com/rajdeepchakraborty-rc/Phantom_Hacks)<br> -->
-  <!--
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-  -->
-
   # 📂 Projects
 
 <table>
@@ -206,7 +196,7 @@
             <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
           </a> 
           <a href="https://phantom-hacks-ccpz.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
           </a>
         </p>
         <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS</p>
@@ -225,7 +215,7 @@
             <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
           </a>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=render" alt="Live Demo"/>
           </a>
         </p>
         <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JS, jQuery</p>
