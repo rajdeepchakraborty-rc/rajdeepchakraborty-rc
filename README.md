@@ -169,11 +169,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1873](https://github.com/AlgoGenesis/C/issues/1873#issuecomment-2469066365) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-2. ❗ Opened issue [#1873](https://github.com/AlgoGenesis/C/issues/1873) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
-3. 🗣 Commented on [#1102](https://github.com/mdazfar2/Ezyshop/pull/1102#issuecomment-2466851563) in [mdazfar2/Ezyshop](https://github.com/mdazfar2/Ezyshop)
-4. 🗣 Commented on [#4](https://github.com/yuvrajsinghgmx/ShopSmart/issues/4#issuecomment-2466792638) in [yuvrajsinghgmx/ShopSmart](https://github.com/yuvrajsinghgmx/ShopSmart)
-5. 🗣 Commented on [#1847](https://github.com/AlgoGenesis/C/pull/1847#issuecomment-2466771672) in [AlgoGenesis/C](https://github.com/AlgoGenesis/C)
+1. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2477095354) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. 🔒 Closed issue [#936](https://github.com/GarimaSingh0109/Resum-Resume/issues/936) in [GarimaSingh0109/Resum-Resume](https://github.com/GarimaSingh0109/Resum-Resume)
+3. 🔒 Closed issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
+4. 🔒 Closed issue [#57](https://github.com/Soumojitshome2023/nextjs-videocall-webapp/issues/57) in [Soumojitshome2023/nextjs-videocall-webapp](https://github.com/Soumojitshome2023/nextjs-videocall-webapp)
+5. 🔒 Closed issue [#68](https://github.com/Webaddicted91/Visieum2.0/issues/68) in [Webaddicted91/Visieum2.0](https://github.com/Webaddicted91/Visieum2.0)
   <!--END_SECTION:activity--> 
   
   # 📝 Articles/ ✍️ Blogs
