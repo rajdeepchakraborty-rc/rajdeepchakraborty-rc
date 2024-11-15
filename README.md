@@ -84,32 +84,32 @@
     </div>
   </td>
   </tr>
-  <tr>
+  <!-- <tr>
   <td>
     <strong>Frameworks and Libraries</strong><br>
   </td>
   <td>
-    <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <div style='display:flex; align-items:center; gap: 10px;' align='center'> -->
       <!-- <img title="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy Logo"/> -->
       <!-- <img title="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo"/> -->
       <!-- <img title="Sklearn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn Logo" width="48" height="48"/> -->
       <!-- <img title="Express" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express Logo"/> -->
-      <img title="React" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
+      <!-- <img title="React" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/> ON -->
       <!-- <img title="Django" src="https://img.icons8.com/color/48/000000/django.png" alt="Django Logo"/> -->
       <!-- <img title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask Logo" width="48" height="48"/> -->
       <!-- <img title="Angular" src="https://icon.icepanel.io/Technology/svg/Angular.svg" alt="Angular Logo" width="48" height="48"/> -->
       <!-- <img title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js Logo"/> -->
       <!-- <img title="Bootstrap" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap Logo" width="48" height="48"/> -->
-      <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
+      <!-- <img title="Tailwind CSS" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS Logo" width="48" height="48"/> ON -->
       <!-- <img title="Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Logo"/> -->
       <!-- <img title="Hibernate" src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate Logo"/>      -->
       <!-- <img title="Ruby on Rails" src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" alt="Ruby on Rails Logo" width="48" height="48"/> -->
-      <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/>
+      <!-- <img title="jQuery" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery Logo" width="48" height="48"/> ON -->
       <!-- <img title="Lodash" src="https://brandeps.com/logo-download/L/Lodash-logo-vector-01.svg" alt="Lodash Logo" width="48" height="48"/> -->
-    </div>
+    <!-- </div>
   </td>
   </tr>
-  <tr>
+  <tr> -->
   <td>
     <strong>Tools and Platforms</strong><br>
   </td>
@@ -124,8 +124,8 @@
       <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
       <!-- <img title="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL Logo"/> -->
       <!-- <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/> -->
-      <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/>
-      <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/>
+      <!-- <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/> -->
+      <!-- <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/> -->
       <!-- <img title="Database Management Systems" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/> -->
       <!-- <img title="REST API" src="https://d33wubrfki0l68.cloudfront.net/70f55b8fa4e75bc7489ea68f628a8a60781c6387/18999/static/rest-api-c2f25fbadba477948398d96acac29c08.png" alt="REST API Logo" width="48" height="48"/> -->
       <!-- <img title="Cloudinary" src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48px" alt="Cloudinary Logo"/>  -->
