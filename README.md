@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/8) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-2. 💪 Opened PR [#8](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/8) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
-3. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2477095354) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-4. 🔒 Closed issue [#936](https://github.com/GarimaSingh0109/Resum-Resume/issues/936) in [GarimaSingh0109/Resum-Resume](https://github.com/GarimaSingh0109/Resum-Resume)
-5. 🔒 Closed issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
+1. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/9) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+2. 💪 Opened PR [#9](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/9) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+3. 🎉 Merged PR [#8](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/8) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+4. 💪 Opened PR [#8](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/8) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+5. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2477095354) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
   <!--END_SECTION:activity--> 
   
   <br>
