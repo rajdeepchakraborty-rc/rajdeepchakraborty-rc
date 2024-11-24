@@ -73,8 +73,8 @@
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
       <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
       <!-- <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/> -->
-      <!-- <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/> -->
-      <!-- <img title="Python" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/> -->
+      <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/>
+      <img title="Python" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
       <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
       <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/>
       <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
@@ -124,7 +124,7 @@
       <img title="Figma" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Logo"/> 
       <!-- <img title="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL Logo"/> -->
       <!-- <img title="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Logo"/> -->
-      <!-- <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/> -->
+      <img title="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo"/>
       <!-- <img title="NPM" src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM Logo"/> -->
       <!-- <img title="Database Management Systems" src="https://img.icons8.com/color/48/000000/database.png" alt="DBMS Logo"/> -->
       <!-- <img title="REST API" src="https://d33wubrfki0l68.cloudfront.net/70f55b8fa4e75bc7489ea68f628a8a60781c6387/18999/static/rest-api-c2f25fbadba477948398d96acac29c08.png" alt="REST API Logo" width="48" height="48"/> -->
@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#862](https://github.com/recodehive/awesome-github-profiles/issues/862#issuecomment-2477095354) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-2. 🔒 Closed issue [#936](https://github.com/GarimaSingh0109/Resum-Resume/issues/936) in [GarimaSingh0109/Resum-Resume](https://github.com/GarimaSingh0109/Resum-Resume)
-3. 🔒 Closed issue [#519](https://github.com/Trisha-tech/OnlineBookSales/issues/519) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
-4. 🔒 Closed issue [#57](https://github.com/Soumojitshome2023/nextjs-videocall-webapp/issues/57) in [Soumojitshome2023/nextjs-videocall-webapp](https://github.com/Soumojitshome2023/nextjs-videocall-webapp)
-5. 🔒 Closed issue [#68](https://github.com/Webaddicted91/Visieum2.0/issues/68) in [Webaddicted91/Visieum2.0](https://github.com/Webaddicted91/Visieum2.0)
+1. 🗣 Commented on [#40](https://github.com/GSSoC24/alumni/issues/40#issuecomment-2481152534) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+2. ❗ Opened issue [#40](https://github.com/GSSoC24/alumni/issues/40) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+3. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
+4. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
+5. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/9) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
   <!--END_SECTION:activity--> 
   
   <br>
@@ -261,6 +261,7 @@
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>Contributed with a total of <strong>45 Accepted PRs</strong></li>
           <li>Contributed to multiple open-source projects.</li>
           <li>Fixed UI/UX issues, added FAQs, and enhanced features & documentations.</li>
         </ul>
