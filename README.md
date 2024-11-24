@@ -72,7 +72,7 @@
   <td>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
       <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
-      <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/>
+      <!-- <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Logo"/> -->
       <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/>
       <img title="Python" src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo"/>
       <img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/>
