@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/1) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-2. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/3) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. ❗ Opened issue [#2](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/2) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. ❗ Opened issue [#1](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/1) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-5. 🗣 Commented on [#40](https://github.com/GSSoC24/alumni/issues/40#issuecomment-2481152534) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+1. 🔒 Closed issue [#5](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/5) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+2. 🎉 Merged PR [#6](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/6) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+3. 💪 Opened PR [#6](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/6) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+4. ❗ Opened issue [#5](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/5) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+5. 🔒 Closed issue [#1](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/1) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
