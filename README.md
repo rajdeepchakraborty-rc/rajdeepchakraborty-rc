@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/13) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-2. 🎉 Merged PR [#15](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/15) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. 💪 Opened PR [#15](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/15) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. 🔒 Closed issue [#10](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/10) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-5. 🎉 Merged PR [#11](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/11) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+1. 🗣 Commented on [#40](https://github.com/GSSoC24/alumni/issues/40#issuecomment-2481152534) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+2. ❗ Opened issue [#40](https://github.com/GSSoC24/alumni/issues/40) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+3. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
+4. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
+5. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/9) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
   <!--END_SECTION:activity--> 
   
   <br>
