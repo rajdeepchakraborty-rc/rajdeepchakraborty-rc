@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/13) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-2. ❗ Opened issue [#12](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/12) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/9) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. 🔒 Closed issue [#8](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/8) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-5. 🎉 Merged PR [#7](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/7) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+1. 🔒 Closed issue [#10](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/10) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+2. 🎉 Merged PR [#11](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/11) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+3. ❗ Opened issue [#13](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/13) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+4. ❗ Opened issue [#12](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/12) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+5. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/9) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
