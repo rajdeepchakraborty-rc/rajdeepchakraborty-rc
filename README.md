@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/16) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-2. 🎉 Merged PR [#17](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/17) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. 🎉 Merged PR [#14](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/14) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. 🗣 Commented on [#40](https://github.com/GSSoC24/alumni/issues/40#issuecomment-2481152534) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
-5. ❗ Opened issue [#40](https://github.com/GSSoC24/alumni/issues/40) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
+1. 🗣 Commented on [#2](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/2#issuecomment-2512416360) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+2. 🔒 Closed issue [#12](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/12) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+3. 🎉 Merged PR [#20](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/20) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+4. 💪 Opened PR [#20](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/20) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+5. 🔒 Closed issue [#18](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/18) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
