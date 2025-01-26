@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-2. 🎉 Merged PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. 💪 Opened PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. ❗ Opened issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-5. 🎉 Merged PR [#51](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/51) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+1. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
+2. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+3. 🎉 Merged PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+4. 💪 Opened PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+5. ❗ Opened issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
