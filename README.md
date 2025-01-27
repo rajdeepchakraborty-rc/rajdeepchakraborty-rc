@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
-2. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-3. 🎉 Merged PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-4. 💪 Opened PR [#53](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/pull/53) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
-5. ❗ Opened issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
+1. 🗣 Commented on [#1477](https://github.com/mdazfar2/HelpOps-Hub/pull/1477#issuecomment-2616403384) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+2. 💪 Opened PR [#1477](https://github.com/mdazfar2/HelpOps-Hub/pull/1477) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+3. ❗ Opened issue [#1476](https://github.com/mdazfar2/HelpOps-Hub/issues/1476) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+4. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
+5. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
