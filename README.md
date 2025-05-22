@@ -25,16 +25,16 @@
 <!--- Adding Socials -->
 
 <p align="center">
-  <!-- <a href="http://sanjaykv.com/">Portfolio</a> -  -->
+  <a href="https://portfolio-rajdeepchakraborty-rcs-projects.vercel.app/">Portfolio</a> - 
   <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">LinkedIn</a> -
   <a href="https://x.com/RajChkDev">Twitter</a> -
-  <a href="https://dev.to/rajdeepchakraborty">Blog</a> -
-  <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a>
+  <a href="https://topmate.io/rajchk">Contact me</a> 
   <!-- Add this later- -->
+  <!-- <a href="https://dev.to/rajdeepchakraborty">Blog</a> - -->
+  <!-- <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a> -->
   <!-- <a href="https://recodehive.com/">Website</a> - -->
   <!-- <a href="https://www.codedex.io/@RajChk">Codédex</a> - -->
   <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
-  <!-- <a href="https://topmate.io/rajchk">Contact me</a>  -->
 </p>
 
 
