@@ -25,16 +25,16 @@
 <!--- Adding Socials -->
 
 <p align="center">
-  <!-- <a href="http://sanjaykv.com/">Portfolio</a> -  -->
+  <a href="https://portfolio-rajdeepchakraborty-rcs-projects.vercel.app/">Portfolio</a> - 
   <a href="https://www.linkedin.com/in/rajdeepchakraborty69/">LinkedIn</a> -
   <a href="https://x.com/RajChkDev">Twitter</a> -
-  <a href="https://dev.to/rajdeepchakraborty">Blog</a> -
-  <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a>
+  <a href="https://topmate.io/rajchk">Contact me</a> 
   <!-- Add this later- -->
+  <!-- <a href="https://dev.to/rajdeepchakraborty">Blog</a> - -->
+  <!-- <a href="https://devfolio.co/@rajdeep_dev">Devfolio</a> -->
   <!-- <a href="https://recodehive.com/">Website</a> - -->
   <!-- <a href="https://www.codedex.io/@RajChk">Codédex</a> - -->
   <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
-  <!-- <a href="https://topmate.io/rajchk">Contact me</a>  -->
 </p>
 
 
@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/GSSoC24/alumni/issues/40#issuecomment-2481152534) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
-2. ❗ Opened issue [#40](https://github.com/GSSoC24/alumni/issues/40) in [GSSoC24/alumni](https://github.com/GSSoC24/alumni)
-3. 🎉 Merged PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
-4. 💪 Opened PR [#3](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pull/3) in [rajdeepchakraborty-rc/MCU-Villains-Timeline](https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline)
-5. 🎉 Merged PR [#9](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc/pull/9) in [rajdeepchakraborty-rc/rajdeepchakraborty-rc](https://github.com/rajdeepchakraborty-rc/rajdeepchakraborty-rc)
+1. ❗ Opened issue [#1](https://github.com/rajdeepchakraborty-rc/portfolio/issues/1) in [rajdeepchakraborty-rc/portfolio](https://github.com/rajdeepchakraborty-rc/portfolio)
+2. 💪 Opened PR [#1477](https://github.com/mdazfar2/HelpOps-Hub/pull/1477) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+3. ❗ Opened issue [#1476](https://github.com/mdazfar2/HelpOps-Hub/issues/1476) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+4. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
+5. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
   <!--END_SECTION:activity--> 
   
   <br>
