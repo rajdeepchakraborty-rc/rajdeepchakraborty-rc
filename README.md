@@ -161,8 +161,8 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/rajdeepchakraborty-rc/portfolio/issues/2) in [rajdeepchakraborty-rc/portfolio](https://github.com/rajdeepchakraborty-rc/portfolio)
-2. ❗ Opened issue [#1](https://github.com/rajdeepchakraborty-rc/portfolio/issues/1) in [rajdeepchakraborty-rc/portfolio](https://github.com/rajdeepchakraborty-rc/portfolio)
+1. ❗ Opened issue [#1160](https://github.com/dev-protocol/community/issues/1160) in [dev-protocol/community](https://github.com/dev-protocol/community)
+2. ❗ Opened issue [#2](https://github.com/rajdeepchakraborty-rc/portfolio/issues/2) in [rajdeepchakraborty-rc/portfolio](https://github.com/rajdeepchakraborty-rc/portfolio)
 3. ❗ Opened issue [#1476](https://github.com/mdazfar2/HelpOps-Hub/issues/1476) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
 4. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
 5. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
