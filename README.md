@@ -161,8 +161,8 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rajdeepchakraborty-rc/testgit/pull/1) in [rajdeepchakraborty-rc/testgit](https://github.com/rajdeepchakraborty-rc/testgit)
-2. 💪 Opened PR [#1](https://github.com/rajdeepchakraborty-rc/testgit/pull/1) in [rajdeepchakraborty-rc/testgit](https://github.com/rajdeepchakraborty-rc/testgit)
+1. 🎉 Merged PR [#6](https://github.com/AvarchLLC/EIPsInsightDocs/pull/6) in [AvarchLLC/EIPsInsightDocs](https://github.com/AvarchLLC/EIPsInsightDocs)
+2. 💪 Opened PR [#6](https://github.com/AvarchLLC/EIPsInsightDocs/pull/6) in [AvarchLLC/EIPsInsightDocs](https://github.com/AvarchLLC/EIPsInsightDocs)
 3. ❗ Opened issue [#1476](https://github.com/mdazfar2/HelpOps-Hub/issues/1476) in [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
 4. 🗣 Commented on [#5](https://github.com/Parnab03/WallGodds/issues/5#issuecomment-2614266707) in [Parnab03/WallGodds](https://github.com/Parnab03/WallGodds)
 5. 🔒 Closed issue [#52](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24/issues/52) in [rajdeepchakraborty-rc/School-Carnival-2K24](https://github.com/rajdeepchakraborty-rc/School-Carnival-2K24)
