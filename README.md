@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/2) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-2. ℹ️ Assigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-3. ℹ️ Unassigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-4. ℹ️ Assigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-5. 💪 Opened PR [#7](https://github.com/AvarchLLC/EIPsInsightDocs/pull/7) in [AvarchLLC/EIPsInsightDocs](https://github.com/AvarchLLC/EIPsInsightDocs)
+1. ℹ️ Assigned PR [#4](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/4) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+2. ℹ️ Assigned PR [#2](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/2) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+3. ℹ️ Assigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+4. ℹ️ Unassigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+5. ℹ️ Assigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
   <!--END_SECTION:activity--> 
   
   <br>
