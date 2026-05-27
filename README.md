@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/AvarchLLC/eips-bootcamp/pull/2) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-2. 💪 Opened PR [#1](https://github.com/AvarchLLC/eips-bootcamp/pull/1) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-3. ℹ️ Assigned PR [#4](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/4) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-4. ℹ️ Assigned PR [#2](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/2) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
-5. ℹ️ Assigned PR [#1](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/1) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+1. 🎉 Merged PR [#2](https://github.com/AvarchLLC/eips-bootcamp/pull/2) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+2. 💪 Opened PR [#2](https://github.com/AvarchLLC/eips-bootcamp/pull/2) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+3. 💪 Opened PR [#1](https://github.com/AvarchLLC/eips-bootcamp/pull/1) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+4. ℹ️ Assigned PR [#4](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/4) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
+5. ℹ️ Assigned PR [#2](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System/pull/2) in [rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System](https://github.com/rajdeepchakraborty-rc/AI-Crop-Disease-Detection-Smart-Advisory-System)
   <!--END_SECTION:activity--> 
   
   <br>
