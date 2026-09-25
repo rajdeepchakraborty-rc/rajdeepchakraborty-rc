@@ -161,11 +161,11 @@
   # ⚡ Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/AvarchLLC/eips-bootcamp/pull/71) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-2. 💪 Opened PR [#71](https://github.com/AvarchLLC/eips-bootcamp/pull/71) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-3. 🎉 Merged PR [#70](https://github.com/AvarchLLC/eips-bootcamp/pull/70) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-4. 💪 Opened PR [#70](https://github.com/AvarchLLC/eips-bootcamp/pull/70) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
-5. 🎉 Merged PR [#63](https://github.com/AvarchLLC/eips-bootcamp/pull/63) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+1. 🎉 Merged PR [#72](https://github.com/AvarchLLC/eips-bootcamp/pull/72) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+2. 💪 Opened PR [#72](https://github.com/AvarchLLC/eips-bootcamp/pull/72) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+3. 🎉 Merged PR [#71](https://github.com/AvarchLLC/eips-bootcamp/pull/71) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+4. 💪 Opened PR [#71](https://github.com/AvarchLLC/eips-bootcamp/pull/71) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
+5. 🎉 Merged PR [#70](https://github.com/AvarchLLC/eips-bootcamp/pull/70) in [AvarchLLC/eips-bootcamp](https://github.com/AvarchLLC/eips-bootcamp)
   <!--END_SECTION:activity--> 
   
   <br>
